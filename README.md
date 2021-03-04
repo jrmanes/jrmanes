@@ -10,7 +10,7 @@
 
 ---
 
-<a href="https://twitter.com/jrmanes">
+<a href="https://twitter.com/jrmanes_">
   <img align="left" alt="Jose Ramón Mañes | Twitter" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/master/assets/twitter.png" />
 </a>
 <a href="https://github.com/jrmanes">
