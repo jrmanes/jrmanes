@@ -11,13 +11,13 @@
 ---
 
 <a href="https://twitter.com/jrmanes_">
-  <img align="left" alt="Jose Ramón Mañes | Twitter" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/master/assets/twitter.png" />
+  <img align="left" alt="Jose Ramón Mañes | Twitter" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/twitter.png" />
 </a>
 <a href="https://github.com/jrmanes">
-  <img align="left" alt="Jose Ramón Mañes | GitHub" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/master/assets/github.png" />
+  <img align="left" alt="Jose Ramón Mañes | GitHub" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/github.png" />
 </a>
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/">
-  <img align="left" alt="Jose Ramón Mañes | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/master/assets/linkedin.png" />
+  <img align="left" alt="Jose Ramón Mañes | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/linkedin.png" />
 </a>
 
 
