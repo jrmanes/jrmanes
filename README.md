@@ -2,14 +2,6 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
----
-
-- 🔭 I’m currently working at [atsistemas](atsistemas.com) as DevOps Architect
-- 🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](golang.org/)
-- 📫 The best way to reach me is by sending me an email.
-
----
-
 <a href="https://twitter.com/jrmanes_">
   <img align="left" alt="Jose Ramón Mañes | Twitter" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/twitter.png" />
 </a>
@@ -20,11 +12,12 @@
   <img align="left" alt="Jose Ramón Mañes | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/linkedin.png" />
 </a>
 
+<br />
+---
 
-<br />
-<br />
-<br />
-<br />
+- 🔭 I’m currently working at [atsistemas](atsistemas.com) as DevOps Architect
+- 🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](golang.org/)
+- 📫 The best way to reach me is by sending me an email.
 
 
 ---
@@ -42,6 +35,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+
+--- 
 
 **GitHub Stats:**  
 
