@@ -1,6 +1,14 @@
-### Hi there, I'm Jose Ramón Mañes 👋
+### Hi there 👋
+
+I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia - 🇪🇸
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+---
+
+- 🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
+- 🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
+- 📫 The best way to reach me is by sending me an email or you can find me also on:
 
 <a href="https://twitter.com/jrmanes_">
   <img align="left" alt="Jose Ramón Mañes | Twitter" width="21px" src="https://raw.githubusercontent.com/jrmanes/jrmanes/main/assets/twitter.png" />
@@ -16,13 +24,6 @@
 
 ---
 
-- 🔭 I’m currently working at [atsistemas](http://atsistemas.com) as DevOps Architect
-- 🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
-- 📫 The best way to reach me is by sending me an email.
-
-
----
-
 🔨 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
@@ -34,8 +35,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 --- 
 
@@ -56,3 +57,5 @@
 ---
 
 Jose Ramón Mañes
+
+---
