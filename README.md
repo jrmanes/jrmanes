@@ -46,10 +46,6 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia - 🇪🇸
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmanes&hide=java,html,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/jrmanes/jrmanes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmanes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="jrmanes's GitHub Stats" />
-</a>
-
 --- 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jrmanes)](https://github.com/jrmanes)
