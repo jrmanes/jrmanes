@@ -2,8 +2,6 @@
 
 I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia - 🇪🇸
 
-**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
-
 ---
 
 - 🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
