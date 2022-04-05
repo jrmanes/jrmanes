@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia - 🇪🇸
+I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
 ---
 
