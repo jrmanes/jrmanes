@@ -49,7 +49,3 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jrmanes)
 
 ---
-
-Jose Ramón Mañes
-
----
