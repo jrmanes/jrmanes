@@ -32,7 +32,7 @@
 
 ---
 
-#### 🏆 Certificates
+#### 🏆 Certificates:
 
 <a href="https://www.credly.com/badges/bbcfc5a2-085d-4661-b385-0ce108904e8c/public_url"><img alt="CKA" width="120" height="120" src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png"/></a>
 <a href="https://www.credly.com/badges/bbcfc5a2-085d-4661-b385-0ce108904e8c/public_url"><img alt="CKAD" width="120" height="120" src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png"/></a>
@@ -42,7 +42,7 @@
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - ({{humanize .OccurredAt}}) {{ . }}{{ end }}
+- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 ---
