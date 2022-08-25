@@ -7,12 +7,6 @@
 
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
 
-
-<a href="https://www.linkedin.com/in/joseramonmanesblasco/">
-   <img alt="Jose Ramón Mañes | LinkedIn" src="https://www.qries.com/images/banner_logo.png"
-   width=150" height="32">
-</a>
-
 {{range rss "https://www.linkedin.com/in/joseramonmanesblasco/" 1}}
 <a href="{{.URL}}"
   <img 
