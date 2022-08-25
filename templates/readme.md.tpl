@@ -6,7 +6,13 @@
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
-<img src="https://img.shields.io/youtube/channel/"></img>
+
+<img 
+   align="left" alt="Jose Ramón Mañes | LinkedIn" height="32"
+   src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</img>
+
+
 
 #### 👨‍💻 Repositories I created recently
 
