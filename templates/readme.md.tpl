@@ -12,7 +12,7 @@
 
 ---
 
-#### 🔨 **Languages and Tools:**  
+#### 🔨 Languages and Tools
 <p align="left">
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
@@ -32,7 +32,7 @@
 
 ---
 
-#### 🏆 **Certificates:**
+#### 🏆 Certificates:
 
 <a href="https://www.credly.com/badges/bbcfc5a2-085d-4661-b385-0ce108904e8c/public_url"><img alt="CKA" width="120" height="120" src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png"/></a>
 <a href="https://www.credly.com/badges/bbcfc5a2-085d-4661-b385-0ce108904e8c/public_url"><img alt="CKAD" width="120" height="120" src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png"/></a>
@@ -76,5 +76,15 @@
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+---
+
+#### 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jrmanes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+--- 
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jrmanes)
 
 ---
