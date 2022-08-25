@@ -9,7 +9,7 @@
 
 {{range rss "https://www.linkedin.com/in/joseramonmanesblasco/" 1}}
 <a href="{{.URL}}"</a>
-<img height="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> </img> 
+<img height="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img> 
 {{- end}}
 
 
