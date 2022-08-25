@@ -49,6 +49,8 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
    width=120" height="120">
 </a>
 
+{{end}}
+
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 5 }}
@@ -79,5 +81,3 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-{{end}}
