@@ -4,10 +4,10 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
 ---
 
-- 🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
-- 🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
+####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
+####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 
-- 📫 The best way to reach me is by sending me an email or you can find me also on:
+####  📫 The best way to reach me is by sending me an email or you can find me also on:
 
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/">
   <img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" 
@@ -22,7 +22,7 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
 ---
 
-🔨 **Languages and Tools:**  
+#### 🔨 **Languages and Tools:**  
 <p align="left">
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
@@ -41,7 +41,7 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 </p>
 
 --- 
-🏆 **Certificates:**  
+#### 🏆 **Certificates:**  
 
 <a href="https://www.credly.com/badges/3fc5401d-4961-4acd-bd73-4521432a0bba/public_url">
    <img alt="CKA" src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png"
