@@ -14,12 +14,12 @@
 </a>
 
 {{range rss "https://www.linkedin.com/in/joseramonmanesblasco/" 1}}
-<a href="{{.URL}}/">
+<a href="{{.URL}}"
   <img 
       align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" 
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
    </img>
-/>
+</a>
 {{- end}}
 
 <br/>
