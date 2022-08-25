@@ -42,7 +42,7 @@
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
+- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - ({{humanize .OccurredAt}}) {{ . }}{{ end }}
 {{- end }}
 
 ---
