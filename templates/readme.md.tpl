@@ -7,13 +7,7 @@
 
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
 
-{{range rss "https://www.linkedin.com/" 1}}
-<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
-<img src="https://img.shields.io/youtube"> </img> 
-{{- end}}
-
-
-<br/>
+<a href="https://www.linkedin.com/in/joseramonmanesblasco/"><img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 #### 👨‍💻 Repositories I created recently
