@@ -7,6 +7,15 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/">
   <img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" 
   src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,5 +89,8 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
+</body>
+</html>
 
 {{end}}
