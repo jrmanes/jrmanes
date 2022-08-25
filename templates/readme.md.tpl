@@ -9,8 +9,18 @@
 
 
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32">
+   <img alt="Jose Ramón Mañes | LinkedIn" src="https://www.qries.com/images/banner_logo.png"
+   width=150" height="32">
 </a>
+
+{{range rss "https://www.linkedin.com/in/joseramonmanesblasco/" 1}}
+<a href="{{.URL}}/">
+  <img 
+      align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+   </img>
+/>
+{{- end}}
 
 <br/>
 
