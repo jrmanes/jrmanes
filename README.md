@@ -23,18 +23,22 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 ---
 
 🔨 **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<p align="left">
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img width="40" height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"></code>
+<code><img width="40" height="40" src="https://camo.githubusercontent.com/bd5b74426b7087fe4c8568458993dfff11001c3b9f0a2483e1da43650cbe0672/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f697374696f696f2f697374696f696f2d69636f6e2e737667"></code>
+<code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/linux/linux.png"></code>
+<code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/bash/bash.png"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
+<code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/aws/aws.png"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+</p>
 
 --- 
 🏆 **Certificates:**  
