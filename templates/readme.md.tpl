@@ -2,8 +2,6 @@
 
 I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
----
-
 ####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 
@@ -19,8 +17,6 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 </a>
 
 <br/>
-
----
 
 #### 🔨 **Languages and Tools:**  
 <p align="left">
@@ -40,7 +36,6 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 </p>
 
---- 
 #### 🏆 **Certificates:**  
 
 <a href="https://www.credly.com/badges/3fc5401d-4961-4acd-bd73-4521432a0bba/public_url">
@@ -52,8 +47,6 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
    <img alt="CKAD" src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png"
    width=120" height="120">
 </a>
-
----
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,14 +79,8 @@ I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
---- 
-
 **GitHub Stats:**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jrmanes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
---- 
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/jrmanes)
-
----
