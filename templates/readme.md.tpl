@@ -6,16 +6,6 @@
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/">
   <img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" 
   src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,7 +14,6 @@
   <img align="left" alt="Jose Ramón Mañes | Twitter" height="32px" 
   src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
 <br/>
 
 #### 🔨 **Languages and Tools:**  
@@ -46,7 +35,6 @@
 </p>
 
 #### 🏆 **Certificates:**  
-
 <a href="https://www.credly.com/badges/3fc5401d-4961-4acd-bd73-4521432a0bba/public_url">
    <img alt="CKA" src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png"
    width=120" height="120">
@@ -57,14 +45,11 @@
    width=120" height="120">
 </a>
 
-{{define "page"}}
-
 #### 👨‍💻 Repositories I created recently
 
 {{- range recentRepos 5 }}
 - **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
-
 
 #### 👷 Check out what I'm currently working on
 
@@ -89,8 +74,3 @@
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-</body>
-</html>
-
-{{end}}
