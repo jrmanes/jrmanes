@@ -8,7 +8,7 @@
 ####  📫 The best way to reach me is by sending me an email or you can find me also on:
 
 {{range rss "https://www.linkedin.com/in/joseramonmanesblasco/" 1}}
-<a href="{{.URL}}"></a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="{{.URL}}"></a><img src="https://google.es"></img></a>
 {{- end}}
 
 
