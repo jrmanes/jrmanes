@@ -1,4 +1,12 @@
+### Hi there 👋
 
+#### I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
+
+####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
+####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
+
+####  📫 The best way to reach me is by sending me an email or you can find me also on:
+<img src="https://img.shields.io/youtube/channel/"></img>
 
 #### 👨‍💻 Repositories I created recently
 - **[jrmanes/kubelite](https://github.com/jrmanes/kubelite)** - Resources to run Litecoin in Kubernetes
@@ -6,7 +14,6 @@
 - **[jrmanes/axectl](https://github.com/jrmanes/axectl)** - DevOps/SRE set of tools
 - **[jrmanes/gp](https://github.com/jrmanes/gp)** - gp(Generate Project) is a tool which helps you to setup your projects 
 - **[jrmanes/rails-blog](https://github.com/jrmanes/rails-blog)** - Test application with Ruby on Rails
-
 
 #### 👷 Check out what I'm currently working on
 
