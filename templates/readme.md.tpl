@@ -14,7 +14,7 @@
 
 #### 🔨 Languages and Tools
 <p align="left">
-<code><img width="40" height="40" src=https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
+<code><img width="40" height="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="40" height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"></code>
