@@ -41,7 +41,7 @@
 
 #### 👨‍💻 Repositories I created recently
 - **[jrmanes/kubelite](https://github.com/jrmanes/kubelite)** - Resources to run Litecoin in Kubernetes
-- **[jrmanes/docker_tools](https://github.com/jrmanes/docker_tools)**
+- **[jrmanes/docker_tools](https://github.com/jrmanes/docker_tools)** - Some Docker common tools
 - **[jrmanes/axectl](https://github.com/jrmanes/axectl)** - DevOps/SRE set of tools
 - **[jrmanes/gp](https://github.com/jrmanes/gp)** - gp(Generate Project) is a tool which helps you to setup your projects 
 - **[jrmanes/rails-blog](https://github.com/jrmanes/rails-blog)** - Test application with Ruby on Rails
@@ -70,11 +70,11 @@
 #### ⭐ Recent Stars
 
 
-- **[cncf/artwork](https://github.com/cncf/artwork)** - 🎨CNCF-related logos and artwork (1 day ago)
-- **[kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)** - The GCP provider implementation for Cluster API (2 days ago)
-- **[walidshaari/PrometheusCertifiedAssociate](https://github.com/walidshaari/PrometheusCertifiedAssociate)** - Prometheus Certified Associate (PCA) CERTIFICATION Prometheus Certified Associate (3 days ago)
-- **[kodekloudhub/certified-kubernetes-security-specialist-cks-course](https://github.com/kodekloudhub/certified-kubernetes-security-specialist-cks-course)** - Notes from the Certified Kubernetes Security Specialist Course on KodeKloud (3 days ago)
-- **[addetz/gophertale](https://github.com/addetz/gophertale)** - A repository for the TWOSS Gopher Fairytale  (3 days ago)
+- **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (today)
+- **[inngest/example-monorepo](https://github.com/inngest/example-monorepo)** - How to structure your monorepo to re-use existing code with Inngest functions (today)
+- **[memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)** - A powerful messaging platform for modern developers (today)
+- **[cytora/goroutines-channels-talks](https://github.com/cytora/goroutines-channels-talks)** - This is the repo for the Goroutines &amp; Channels talks (today)
+- **[jetpack-io/devbox](https://github.com/jetpack-io/devbox)** - Instant, easy, predictable shells and containers. (today)
 
 ---
 
