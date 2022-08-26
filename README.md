@@ -14,7 +14,7 @@
 
 #### 🔨 Languages and Tools
 <p align="left">
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img width="40" height="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="40" height="40" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png"></code>
@@ -70,11 +70,11 @@
 #### ⭐ Recent Stars
 
 
+- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (today)
+- **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (today)
 - **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (today)
 - **[inngest/example-monorepo](https://github.com/inngest/example-monorepo)** - How to structure your monorepo to re-use existing code with Inngest functions (today)
 - **[memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)** - A powerful messaging platform for modern developers (today)
-- **[cytora/goroutines-channels-talks](https://github.com/cytora/goroutines-channels-talks)** - This is the repo for the Goroutines &amp; Channels talks (today)
-- **[jetpack-io/devbox](https://github.com/jetpack-io/devbox)** - Instant, easy, predictable shells and containers. (today)
 
 ---
 
