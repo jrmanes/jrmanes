@@ -52,8 +52,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (2 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 days ago)
+- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (3 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (3 days ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (3 weeks ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (1 month ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (3 months ago)
@@ -71,18 +71,18 @@
 #### ⭐ Recent Stars
 
 
-- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (today)
-- **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (today)
-- **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (today)
-- **[inngest/example-monorepo](https://github.com/inngest/example-monorepo)** - How to structure your monorepo to re-use existing code with Inngest functions (today)
-- **[memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)** - A powerful messaging platform for modern developers (today)
+- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (1 day ago)
+- **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (1 day ago)
+- **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (1 day ago)
+- **[inngest/example-monorepo](https://github.com/inngest/example-monorepo)** - How to structure your monorepo to re-use existing code with Inngest functions (1 day ago)
+- **[memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)** - A powerful messaging platform for modern developers (1 day ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (2 days ago)
+- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (3 days ago)
 
 ---
 
