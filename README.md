@@ -71,11 +71,11 @@
 #### ⭐ Recent Stars
 
 
+- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (today)
 - **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (2 days ago)
 - **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (3 days ago)
 - **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (3 days ago)
 - **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (3 days ago)
-- **[inngest/example-monorepo](https://github.com/inngest/example-monorepo)** - How to structure your monorepo to re-use existing code with Inngest functions (3 days ago)
 
 ---
 
