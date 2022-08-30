@@ -26,6 +26,7 @@
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
+<code><img width="40" height="40" src="https://avatars.githubusercontent.com/u/10203055?s=200&v=4"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/aws/aws.png"></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
