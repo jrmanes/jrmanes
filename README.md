@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
+- **[aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)** - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (today)
 - **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 day ago)
 - **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (3 days ago)
 - **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (4 days ago)
 - **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (4 days ago)
-- **[kubernetes/git-sync](https://github.com/kubernetes/git-sync)** - A sidecar app which clones a git repo and keeps it in sync with the upstream. (4 days ago)
 
 ---
 
