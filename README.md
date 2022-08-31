@@ -55,9 +55,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (6 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (3 weeks ago)
+- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (1 week ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (4 weeks ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (1 month ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (3 months ago)
 
@@ -74,18 +74,18 @@
 #### ⭐ Recent Stars
 
 
-- **[aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)** - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (today)
-- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 day ago)
-- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (3 days ago)
-- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (4 days ago)
-- **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (4 days ago)
+- **[aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)** - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (1 day ago)
+- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (2 days ago)
+- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (4 days ago)
+- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (5 days ago)
+- **[michaelforney/samurai](https://github.com/michaelforney/samurai)** - ninja-compatible build tool written in C (5 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (6 days ago)
+- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (1 week ago)
 
 ---
 
