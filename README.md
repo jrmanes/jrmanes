@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
+- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (today)
+- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (today)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (today)
+- **[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)** - The user-friendly command line shell. (today)
 - **[swaggo/swag](https://github.com/swaggo/swag)** - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (today)
-- **[aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)** - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark (2 days ago)
-- **[williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (3 days ago)
-- **[nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)** - A guide to using Lua in Neovim (5 days ago)
-- **[oasislinux/oasis](https://github.com/oasislinux/oasis)** - a small statically-linked linux system (6 days ago)
 
 ---
 
