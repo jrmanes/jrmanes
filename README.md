@@ -55,7 +55,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (1 week ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (2 months ago)
@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
-- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (1 day ago)
-- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (1 day ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 day ago)
-- **[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)** - The user-friendly command line shell. (1 day ago)
-- **[swaggo/swag](https://github.com/swaggo/swag)** - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
+- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (2 days ago)
+- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (2 days ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (2 days ago)
+- **[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)** - The user-friendly command line shell. (2 days ago)
+- **[swaggo/swag](https://github.com/swaggo/swag)** - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (2 days ago)
 
 ---
 
