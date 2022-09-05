@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
+- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (today)
+- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** (today)
 - **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (4 days ago)
 - **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (4 days ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (4 days ago)
-- **[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)** - The user-friendly command line shell. (4 days ago)
-- **[swaggo/swag](https://github.com/swaggo/swag)** - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (4 days ago)
 
 ---
 
