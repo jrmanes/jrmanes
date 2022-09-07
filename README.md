@@ -55,9 +55,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 day ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
-- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (1 week ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
+- [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (2 weeks ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (2 months ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (3 months ago)
 
@@ -74,18 +74,18 @@
 #### ⭐ Recent Stars
 
 
-- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (1 day ago)
-- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** (1 day ago)
-- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (5 days ago)
-- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (5 days ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (5 days ago)
+- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (2 days ago)
+- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** (2 days ago)
+- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (6 days ago)
+- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (6 days ago)
+- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (6 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (1 week ago)
+- [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (2 weeks ago)
 
 ---
 
