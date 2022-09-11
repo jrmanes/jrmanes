@@ -4,8 +4,6 @@
 
 ####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
-
-
 ####  📫 You can reach me on:
 
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/"><img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
