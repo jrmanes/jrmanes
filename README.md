@@ -75,7 +75,7 @@
 
 
 - **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (1 week ago)
-- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** (1 week ago)
+- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (1 week ago)
 - **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (1 week ago)
 - **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (1 week ago)
 - **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (1 week ago)
