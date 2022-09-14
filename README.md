@@ -55,7 +55,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 week ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (3 weeks ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (2 months ago)
