@@ -22,6 +22,7 @@
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/linux/linux.png"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/bash/bash.png"></code>
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img width="40" height="40" src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png"></code>
