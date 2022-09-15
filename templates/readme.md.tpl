@@ -2,7 +2,7 @@
 
 #### I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
-####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
+[//]: ####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 ####  📫 You can reach me on:
 
