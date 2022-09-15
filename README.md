@@ -2,7 +2,7 @@
 
 #### I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
 
-####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
+[//]: ####  🔭 I’m currently working at [Piktochart](https://piktochart.com/) as a DevOps Engineer
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 ####  📫 You can reach me on:
 
@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
+- **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (today)
 - **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (1 week ago)
 - **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (1 week ago)
 - **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (2 weeks ago)
 - **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (2 weeks ago)
-- **[alacritty/alacritty](https://github.com/alacritty/alacritty)** - A cross-platform, OpenGL terminal emulator. (2 weeks ago)
 
 ---
 
