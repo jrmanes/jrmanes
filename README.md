@@ -66,7 +66,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.1.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.1.1) (2 months ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.1.2](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.1.2) (today)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -74,11 +74,11 @@
 #### ⭐ Recent Stars
 
 
+- **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (today)
+- **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (today)
 - **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (4 days ago)
 - **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (2 weeks ago)
 - **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (2 weeks ago)
-- **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (2 weeks ago)
-- **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (2 weeks ago)
 
 ---
 
