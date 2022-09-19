@@ -55,7 +55,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (today)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (3 weeks ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (2 months ago)
@@ -74,9 +74,9 @@
 #### ⭐ Recent Stars
 
 
-- **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (3 days ago)
-- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (1 week ago)
-- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (1 week ago)
+- **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (4 days ago)
+- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (2 weeks ago)
+- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (2 weeks ago)
 - **[cncf/tag-observability](https://github.com/cncf/tag-observability)** - Technical Advisory Group for Observability 🔭⚙️ (2 weeks ago)
 - **[tetratelabs/wazero](https://github.com/tetratelabs/wazero)** - wazero: the zero dependency WebAssembly runtime for Go developers (2 weeks ago)
 
