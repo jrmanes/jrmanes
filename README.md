@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (today)
 - **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (5 days ago)
 - **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (5 days ago)
 - **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (1 week ago)
 - **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (2 weeks ago)
-- **[CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model (2 weeks ago)
 
 ---
 
