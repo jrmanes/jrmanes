@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (1 month ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (2 months ago)
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (today)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (1 day ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,7 +75,7 @@
 #### ⭐ Recent Stars
 
 
-- **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (5 days ago)
+- **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (6 days ago)
 - **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (1 week ago)
 - **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (1 week ago)
 - **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (2 weeks ago)
