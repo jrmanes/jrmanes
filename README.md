@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (3 days ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (4 days ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -76,10 +76,10 @@
 
 
 - **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (1 week ago)
-- **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (1 week ago)
-- **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (1 week ago)
+- **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (2 weeks ago)
+- **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (2 weeks ago)
 - **[casperstorm/dotfiles](https://github.com/casperstorm/dotfiles)** - nvim &#43; tmux in fish 🐟 (2 weeks ago)
-- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (3 weeks ago)
+- **[bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)** (4 weeks ago)
 
 ---
 
