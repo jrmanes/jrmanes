@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)** - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (today)
 - **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (2 days ago)
 - **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (3 days ago)
 - **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (1 week ago)
 - **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (2 weeks ago)
-- **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (2 weeks ago)
 
 ---
 
