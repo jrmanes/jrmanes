@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (6 days ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (1 week ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,8 +75,8 @@
 #### ⭐ Recent Stars
 
 
-- **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (1 day ago)
-- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (2 days ago)
+- **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (2 days ago)
+- **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (3 days ago)
 - **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (1 week ago)
 - **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (2 weeks ago)
 - **[dntosas/capi2argo-cluster-operator](https://github.com/dntosas/capi2argo-cluster-operator)** - Capi2Argo Cluster Operator (CACO) can be deployed on a CAPI Management cluster and dynamically convert Workload cluster credentials into Argo Cluster definitions. (2 weeks ago)
