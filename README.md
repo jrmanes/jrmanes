@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (today)
 - **[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)** - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (2 days ago)
 - **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (4 days ago)
 - **[torvalds/linux](https://github.com/torvalds/linux)** - Linux kernel source tree (5 days ago)
 - **[arnvald/viml-to-lua](https://github.com/arnvald/viml-to-lua)** (2 weeks ago)
-- **[kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)** - Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of &#34;self-managed&#34; and EKS Kubernetes clusters on AWS. (2 weeks ago)
 
 ---
 
