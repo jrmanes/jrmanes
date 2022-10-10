@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (today)
-- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (today)
-- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (1 day ago)
-- **[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)** - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (3 days ago)
-- **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (5 days ago)
+- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (1 day ago)
+- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (1 day ago)
+- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (2 days ago)
+- **[madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)** - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (4 days ago)
+- **[codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples)** - GitOps Certification Level 2 examples (6 days ago)
 
 ---
 
