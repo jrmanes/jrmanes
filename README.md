@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (1 week ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (2 weeks ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 day ago)
-- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (1 day ago)
-- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (3 days ago)
-- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (3 days ago)
-- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (4 days ago)
+- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (2 days ago)
+- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (2 days ago)
+- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (4 days ago)
+- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (4 days ago)
+- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (5 days ago)
 
 ---
 
