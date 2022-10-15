@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (3 days ago)
-- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (3 days ago)
-- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (5 days ago)
-- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (5 days ago)
-- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (6 days ago)
+- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (4 days ago)
+- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (4 days ago)
+- **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (6 days ago)
+- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (6 days ago)
+- **[mikefarah/yq](https://github.com/mikefarah/yq)** - yq is a portable command-line YAML, JSON, XML, CSV and properties processor (1 week ago)
 
 ---
 
