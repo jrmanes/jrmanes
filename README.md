@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Jose Ramón Mañes, I'm a DevOps Engineer based in Valencia 🇪🇸
+#### I'm Jose Ramón Mañes, I'm an SRE based in Valencia 🇪🇸
 
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
 ####  📫 You can reach me on:
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[pablokbs/peladonerd](https://github.com/pablokbs/peladonerd)** - Repo con los archivos que uso para mi videos en youtube (today)
 - **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (2 days ago)
 - **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
 - **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (1 week ago)
 - **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (1 week ago)
-- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (1 week ago)
 
 ---
 
