@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 day ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (4 weeks ago)
+- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (2 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 days ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (1 month ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (3 months ago)
 
@@ -75,9 +75,9 @@
 #### ⭐ Recent Stars
 
 
-- **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (1 day ago)
-- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (6 days ago)
-- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (6 days ago)
+- **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (2 days ago)
+- **[stakater/Reloader](https://github.com/stakater/Reloader)** - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
+- **[golang/protobuf](https://github.com/golang/protobuf)** - Go support for Google&#39;s protocol buffers (1 week ago)
 - **[argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)** - Automatic container image update for Argo CD (1 week ago)
 - **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** - Declarative continuous deployment for Kubernetes. (1 week ago)
 
