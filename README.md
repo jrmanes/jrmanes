@@ -75,10 +75,10 @@
 #### ⭐ Recent Stars
 
 
-- **[Foxboron/go-uefi](https://github.com/Foxboron/go-uefi)** - Linux UEFI library written in pure Go. (5 days ago)
-- **[kubernetes/minikube](https://github.com/kubernetes/minikube)** - Run Kubernetes locally (5 days ago)
-- **[upptime/upptime](https://github.com/upptime/upptime)** - ⬆️ Free uptime monitor and status page powered by GitHub (5 days ago)
-- **[pablokbs/peladonerd](https://github.com/pablokbs/peladonerd)** - Repo con los archivos que uso para mi videos en youtube (5 days ago)
+- **[Foxboron/go-uefi](https://github.com/Foxboron/go-uefi)** - Linux UEFI library written in pure Go. (6 days ago)
+- **[kubernetes/minikube](https://github.com/kubernetes/minikube)** - Run Kubernetes locally (6 days ago)
+- **[upptime/upptime](https://github.com/upptime/upptime)** - ⬆️ Free uptime monitor and status page powered by GitHub (6 days ago)
+- **[pablokbs/peladonerd](https://github.com/pablokbs/peladonerd)** - Repo con los archivos que uso para mi videos en youtube (6 days ago)
 - **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (1 week ago)
 
 ---
