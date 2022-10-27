@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (3 weeks ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (4 weeks ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
