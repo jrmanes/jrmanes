@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 week ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
+- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (2 weeks ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (2 months ago)
 - [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (3 months ago)
@@ -79,7 +79,7 @@
 - **[kubernetes/minikube](https://github.com/kubernetes/minikube)** - Run Kubernetes locally (1 week ago)
 - **[upptime/upptime](https://github.com/upptime/upptime)** - ⬆️ Free uptime monitor and status page powered by GitHub (1 week ago)
 - **[pablokbs/peladonerd](https://github.com/pablokbs/peladonerd)** - Repo con los archivos que uso para mi videos en youtube (1 week ago)
-- **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (1 week ago)
+- **[bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba)** - Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros. (2 weeks ago)
 
 ---
 
