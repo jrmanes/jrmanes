@@ -46,21 +46,21 @@
 
 #### 👨‍💻 Repositories I created recently
 - **[jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles)**
+- **[jrmanes/osx-config](https://github.com/jrmanes/osx-config)** - Like dotenvs, but with Ansible
 - **[jrmanes/kubelite](https://github.com/jrmanes/kubelite)** - Resources to run Litecoin in Kubernetes
 - **[jrmanes/docker_tools](https://github.com/jrmanes/docker_tools)** - Some Docker common tools
 - **[jrmanes/axectl](https://github.com/jrmanes/axectl)** - DevOps/SRE set of tools
-- **[jrmanes/gp](https://github.com/jrmanes/gp)** - gp(Generate Project) is a tool which helps you to setup your projects 
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (2 weeks ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
+- [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (2 weeks ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (2 months ago)
-- [jrmanes/kubelite](https://github.com/jrmanes/kubelite) - Resources to run Litecoin in Kubernetes (4 months ago)
 
 ---
 
