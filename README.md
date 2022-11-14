@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (4 weeks ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 weeks ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
