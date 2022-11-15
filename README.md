@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (today)
 - **[nix-community/home-manager](https://github.com/nix-community/home-manager)** - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
 - **[google/gvisor](https://github.com/google/gvisor)** - Application Kernel for Containers (2 weeks ago)
 - **[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)** - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (2 weeks ago)
 - **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (2 weeks ago)
-- **[Foxboron/go-uefi](https://github.com/Foxboron/go-uefi)** - Linux UEFI library written in pure Go. (4 weeks ago)
 
 ---
 
