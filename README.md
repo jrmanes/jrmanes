@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (today)
-- **[nix-community/home-manager](https://github.com/nix-community/home-manager)** - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
+- **[quintush/helm-unittest](https://github.com/quintush/helm-unittest)** - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 day ago)
+- **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (1 day ago)
+- **[nix-community/home-manager](https://github.com/nix-community/home-manager)** - Manage a user environment using Nix  [maintainer=@rycee]  (3 days ago)
 - **[google/gvisor](https://github.com/google/gvisor)** - Application Kernel for Containers (2 weeks ago)
 - **[nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)** - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (2 weeks ago)
-- **[kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)** - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. (2 weeks ago)
 
 ---
 
