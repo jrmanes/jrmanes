@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 months ago)
@@ -75,8 +75,8 @@
 #### ⭐ Recent Stars
 
 
-- **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (3 days ago)
-- **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (6 days ago)
+- **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (4 days ago)
+- **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (1 week ago)
 - **[quintush/helm-unittest](https://github.com/quintush/helm-unittest)** - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 week ago)
 - **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (1 week ago)
 - **[nix-community/home-manager](https://github.com/nix-community/home-manager)** - Manage a user environment using Nix  [maintainer=@rycee]  (1 week ago)
