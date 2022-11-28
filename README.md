@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (1 month ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.0) (2 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 day ago)
 - **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (1 week ago)
 - **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (1 week ago)
 - **[quintush/helm-unittest](https://github.com/quintush/helm-unittest)** - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 week ago)
 - **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (1 week ago)
-- **[nix-community/home-manager](https://github.com/nix-community/home-manager)** - Manage a user environment using Nix  [maintainer=@rycee]  (2 weeks ago)
 
 ---
 
