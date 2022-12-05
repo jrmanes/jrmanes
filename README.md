@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (today)
 - **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 week ago)
 - **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (2 weeks ago)
 - **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (2 weeks ago)
 - **[quintush/helm-unittest](https://github.com/quintush/helm-unittest)** - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (2 weeks ago)
-- **[go-kratos/kratos](https://github.com/go-kratos/kratos)** - Your ultimate Go microservices framework for the cloud-native era. (2 weeks ago)
 
 ---
 
