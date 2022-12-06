@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (today)
 - **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 day ago)
 - **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (1 day ago)
 - **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 week ago)
 - **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (2 weeks ago)
-- **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (2 weeks ago)
 
 ---
 
