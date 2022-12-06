@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 months ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (today)
+- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 day ago)
+- **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (1 day ago)
 - **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 week ago)
 - **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (2 weeks ago)
 - **[operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)** - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. (2 weeks ago)
-- **[quintush/helm-unittest](https://github.com/quintush/helm-unittest)** - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (2 weeks ago)
 
 ---
 
