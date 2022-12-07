@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** - A black hole for Internet advertisements (today)
 - **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (1 day ago)
 - **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (2 days ago)
 - **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (2 days ago)
 - **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 week ago)
-- **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (2 weeks ago)
 
 ---
 
