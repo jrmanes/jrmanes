@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
 - [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 months ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (3 months ago)
@@ -75,9 +75,9 @@
 #### ⭐ Recent Stars
 
 
-- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (today)
-- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 day ago)
-- **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (1 day ago)
+- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (1 day ago)
+- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (2 days ago)
+- **[paritytech/polkadot](https://github.com/paritytech/polkadot)** - Polkadot Node Implementation (2 days ago)
 - **[kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter)** - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (1 week ago)
 - **[aykamko/tag](https://github.com/aykamko/tag)** - Instantly jump to your ag or ripgrep matches. (2 weeks ago)
 
