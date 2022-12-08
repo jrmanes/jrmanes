@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
 - [jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles) -  (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 months ago)
 - [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) - The GCP provider implementation for Cluster API (3 months ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)** - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (today)
-- **[testground/infra](https://github.com/testground/infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (today)
-- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** - A black hole for Internet advertisements (today)
-- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (1 day ago)
-- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (2 days ago)
+- **[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)** - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (1 day ago)
+- **[testground/infra](https://github.com/testground/infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 day ago)
+- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** - A black hole for Internet advertisements (1 day ago)
+- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (2 days ago)
+- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (3 days ago)
 
 ---
 
