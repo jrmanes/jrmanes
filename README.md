@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[hashicorp/packer](https://github.com/hashicorp/packer)** - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (today)
+- **[hashicorp/consul](https://github.com/hashicorp/consul)** - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (today)
+- **[hashicorp/nomad](https://github.com/hashicorp/nomad)** - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (today)
 - **[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)** - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 days ago)
 - **[testground/infra](https://github.com/testground/infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (2 days ago)
-- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** - A black hole for Internet advertisements (2 days ago)
-- **[google/fscrypt](https://github.com/google/fscrypt)** - Go tool for managing Linux filesystem encryption (3 days ago)
-- **[TykTechnologies/tyk](https://github.com/TykTechnologies/tyk)** - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (4 days ago)
 
 ---
 
