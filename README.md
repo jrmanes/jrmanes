@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 days ago)
-- [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (2 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (3 days ago)
+- [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (3 days ago)
+- [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (3 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
 
 ---
 
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[hashicorp/packer](https://github.com/hashicorp/packer)** - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (1 day ago)
-- **[hashicorp/consul](https://github.com/hashicorp/consul)** - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 day ago)
-- **[hashicorp/nomad](https://github.com/hashicorp/nomad)** - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (1 day ago)
-- **[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)** - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (3 days ago)
-- **[testground/infra](https://github.com/testground/infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (3 days ago)
+- **[hashicorp/packer](https://github.com/hashicorp/packer)** - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (2 days ago)
+- **[hashicorp/consul](https://github.com/hashicorp/consul)** - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (2 days ago)
+- **[hashicorp/nomad](https://github.com/hashicorp/nomad)** - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (2 days ago)
+- **[EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)** - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (4 days ago)
+- **[testground/infra](https://github.com/testground/infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (4 days ago)
 
 ---
 
