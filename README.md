@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
-- [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (5 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
+- [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (6 days ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 week ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (1 week ago)
 
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[gocolly/colly](https://github.com/gocolly/colly)** - Elegant Scraper and Crawler Framework for Golang (2 days ago)
-- **[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)** - Prometheus community Helm charts (2 days ago)
-- **[hashicorp/vault-examples](https://github.com/hashicorp/vault-examples)** - A collection of example code snippets demonstrating the various ways to use the HashiCorp Vault client libraries. (2 days ago)
-- **[hashicorp/vault](https://github.com/hashicorp/vault)** - A tool for secrets management, encryption as a service, and privileged access management (2 days ago)
-- **[hashicorp/packer](https://github.com/hashicorp/packer)** - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (6 days ago)
+- **[gocolly/colly](https://github.com/gocolly/colly)** - Elegant Scraper and Crawler Framework for Golang (3 days ago)
+- **[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)** - Prometheus community Helm charts (3 days ago)
+- **[hashicorp/vault-examples](https://github.com/hashicorp/vault-examples)** - A collection of example code snippets demonstrating the various ways to use the HashiCorp Vault client libraries. (3 days ago)
+- **[hashicorp/vault](https://github.com/hashicorp/vault)** - A tool for secrets management, encryption as a service, and privileged access management (3 days ago)
+- **[hashicorp/packer](https://github.com/hashicorp/packer)** - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. (1 week ago)
 
 ---
 
