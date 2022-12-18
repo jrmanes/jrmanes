@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 week ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 week ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (1 week ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[cilium/charts](https://github.com/cilium/charts)** - Helm charts repository for the Cilium project (1 day ago)
-- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 day ago)
-- **[gocolly/colly](https://github.com/gocolly/colly)** - Elegant Scraper and Crawler Framework for Golang (4 days ago)
-- **[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)** - Prometheus community Helm charts (4 days ago)
-- **[hashicorp/vault-examples](https://github.com/hashicorp/vault-examples)** - A collection of example code snippets demonstrating the various ways to use the HashiCorp Vault client libraries. (4 days ago)
+- **[cilium/charts](https://github.com/cilium/charts)** - Helm charts repository for the Cilium project (2 days ago)
+- **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (2 days ago)
+- **[gocolly/colly](https://github.com/gocolly/colly)** - Elegant Scraper and Crawler Framework for Golang (5 days ago)
+- **[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)** - Prometheus community Helm charts (5 days ago)
+- **[hashicorp/vault-examples](https://github.com/hashicorp/vault-examples)** - A collection of example code snippets demonstrating the various ways to use the HashiCorp Vault client libraries. (5 days ago)
 
 ---
 
