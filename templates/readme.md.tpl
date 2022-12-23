@@ -2,7 +2,7 @@
 
 #### I'm Jose Ramón Mañes, I'm an SRE based in Valencia 🇪🇸
 
-####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and [Golang](http://golang.org/)
+####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 ####  📫 You can reach me on:
 
 <a href="https://www.linkedin.com/in/joseramonmanesblasco/"><img align="left" alt="Jose Ramón Mañes | LinkedIn" height="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
