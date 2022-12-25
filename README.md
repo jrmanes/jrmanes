@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (2 weeks ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 weeks ago)
@@ -75,8 +75,8 @@
 #### ⭐ Recent Stars
 
 
-- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (2 days ago)
-- **[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)** - Collection of mini-programs demonstrating Kubernetes client-go usage. (5 days ago)
+- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (3 days ago)
+- **[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)** - Collection of mini-programs demonstrating Kubernetes client-go usage. (6 days ago)
 - **[cilium/charts](https://github.com/cilium/charts)** - Helm charts repository for the Cilium project (1 week ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 week ago)
 - **[gocolly/colly](https://github.com/gocolly/colly)** - Elegant Scraper and Crawler Framework for Golang (1 week ago)
