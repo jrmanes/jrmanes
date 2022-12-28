@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 days ago)
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (3 days ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (2 weeks ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (2 weeks ago)
 
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (4 weeks ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (1 month ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,8 +75,8 @@
 #### ⭐ Recent Stars
 
 
-- **[rs/zerolog](https://github.com/rs/zerolog)** - Zero Allocation JSON Logger (1 day ago)
-- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (5 days ago)
+- **[rs/zerolog](https://github.com/rs/zerolog)** - Zero Allocation JSON Logger (2 days ago)
+- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (6 days ago)
 - **[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)** - Collection of mini-programs demonstrating Kubernetes client-go usage. (1 week ago)
 - **[cilium/charts](https://github.com/cilium/charts)** - Helm charts repository for the Cilium project (1 week ago)
 - **[kyverno/kyverno](https://github.com/kyverno/kyverno)** - Kubernetes Native Policy Management (1 week ago)
