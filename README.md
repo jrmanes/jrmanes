@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 week ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (3 weeks ago)
-- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (3 weeks ago)
+- [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (4 weeks ago)
 
 ---
 
@@ -75,10 +75,10 @@
 #### ⭐ Recent Stars
 
 
-- **[NixOS/nixops](https://github.com/NixOS/nixops)** - NixOps is a tool for deploying to NixOS machines in a network or cloud. (6 days ago)
-- **[cachix/devenv](https://github.com/cachix/devenv)** - Fast, Declarative, Reproducible, and Composable Developer Environments (6 days ago)
+- **[NixOS/nixops](https://github.com/NixOS/nixops)** - NixOps is a tool for deploying to NixOS machines in a network or cloud. (1 week ago)
+- **[cachix/devenv](https://github.com/cachix/devenv)** - Fast, Declarative, Reproducible, and Composable Developer Environments (1 week ago)
 - **[rs/zerolog](https://github.com/rs/zerolog)** - Zero Allocation JSON Logger (1 week ago)
-- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (1 week ago)
+- **[testground/testground](https://github.com/testground/testground)** - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale. (2 weeks ago)
 - **[iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples)** - Collection of mini-programs demonstrating Kubernetes client-go usage. (2 weeks ago)
 
 ---
