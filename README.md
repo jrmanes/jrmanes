@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (2 weeks ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
@@ -75,9 +75,9 @@
 #### ⭐ Recent Stars
 
 
-- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (today)
-- **[unikraft/kraftkit](https://github.com/unikraft/kraftkit)** - Build and use highly customized and ultra-lightweight unikernel VMs. (1 day ago)
-- **[GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core)** - Vue Native is a framework to build cross platform native mobile apps using JavaScript (1 day ago)
+- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (1 day ago)
+- **[unikraft/kraftkit](https://github.com/unikraft/kraftkit)** - Build and use highly customized and ultra-lightweight unikernel VMs. (2 days ago)
+- **[GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core)** - Vue Native is a framework to build cross platform native mobile apps using JavaScript (2 days ago)
 - **[NixOS/nixops](https://github.com/NixOS/nixops)** - NixOps is a tool for deploying to NixOS machines in a network or cloud. (2 weeks ago)
 - **[cachix/devenv](https://github.com/cachix/devenv)** - Fast, Declarative, Reproducible, and Composable Developer Environments (2 weeks ago)
 
