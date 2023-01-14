@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (2 weeks ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (today)
+- **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (today)
+- **[ray-x/go.nvim](https://github.com/ray-x/go.nvim)** - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools. (today)
+- **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (today)
 - **[rust-lang/mdBook](https://github.com/rust-lang/mdBook)** - Create book from markdown files. Like Gitbook but implemented in Rust (1 day ago)
-- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (2 days ago)
-- **[unikraft/kraftkit](https://github.com/unikraft/kraftkit)** - Build and use highly customized and ultra-lightweight unikernel VMs. (3 days ago)
-- **[GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core)** - Vue Native is a framework to build cross platform native mobile apps using JavaScript (3 days ago)
-- **[NixOS/nixops](https://github.com/NixOS/nixops)** - NixOps is a tool for deploying to NixOS machines in a network or cloud. (2 weeks ago)
 
 ---
 
