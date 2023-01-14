@@ -75,10 +75,10 @@
 #### ⭐ Recent Stars
 
 
-- **[rust-lang/mdBook](https://github.com/rust-lang/mdBook)** - Create book from markdown files. Like Gitbook but implemented in Rust (today)
-- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (1 day ago)
-- **[unikraft/kraftkit](https://github.com/unikraft/kraftkit)** - Build and use highly customized and ultra-lightweight unikernel VMs. (2 days ago)
-- **[GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core)** - Vue Native is a framework to build cross platform native mobile apps using JavaScript (2 days ago)
+- **[rust-lang/mdBook](https://github.com/rust-lang/mdBook)** - Create book from markdown files. Like Gitbook but implemented in Rust (1 day ago)
+- **[dgraph-io/badger](https://github.com/dgraph-io/badger)** - Fast key-value DB in Go. (2 days ago)
+- **[unikraft/kraftkit](https://github.com/unikraft/kraftkit)** - Build and use highly customized and ultra-lightweight unikernel VMs. (3 days ago)
+- **[GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core)** - Vue Native is a framework to build cross platform native mobile apps using JavaScript (3 days ago)
 - **[NixOS/nixops](https://github.com/NixOS/nixops)** - NixOps is a tool for deploying to NixOS machines in a network or cloud. (2 weeks ago)
 
 ---
