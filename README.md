@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (today)
 - **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (3 days ago)
 - **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (3 days ago)
 - **[ray-x/go.nvim](https://github.com/ray-x/go.nvim)** - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools. (3 days ago)
 - **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (3 days ago)
-- **[rust-lang/mdBook](https://github.com/rust-lang/mdBook)** - Create book from markdown files. Like Gitbook but implemented in Rust (4 days ago)
 
 ---
 
