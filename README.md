@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 days ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (3 weeks ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (today)
-- **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (3 days ago)
-- **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (3 days ago)
-- **[ray-x/go.nvim](https://github.com/ray-x/go.nvim)** - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools. (3 days ago)
-- **[navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim)** - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (3 days ago)
+- **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (1 day ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (1 day ago)
+- **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (4 days ago)
+- **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (4 days ago)
+- **[ray-x/go.nvim](https://github.com/ray-x/go.nvim)** - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools. (4 days ago)
 
 ---
 
