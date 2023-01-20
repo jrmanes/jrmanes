@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (today)
 - **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (3 days ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (3 days ago)
 - **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (6 days ago)
 - **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (6 days ago)
-- **[ray-x/go.nvim](https://github.com/ray-x/go.nvim)** - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools. (6 days ago)
 
 ---
 
