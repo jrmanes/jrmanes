@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (3 weeks ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (4 weeks ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
 - [jrmanes/provision-linux](https://github.com/jrmanes/provision-linux) - Ansible repository will provision a Linux machine with all the tools needed. (1 month ago)
 
@@ -75,9 +75,9 @@
 #### ⭐ Recent Stars
 
 
-- **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (1 day ago)
-- **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (4 days ago)
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (4 days ago)
+- **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (2 days ago)
+- **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (5 days ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (5 days ago)
 - **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (1 week ago)
 - **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (1 week ago)
 
