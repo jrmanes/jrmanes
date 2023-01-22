@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[koekeishiya/yabai](https://github.com/koekeishiya/yabai)** - A tiling window manager for macOS based on binary space partitioning (today)
 - **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (2 days ago)
 - **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (5 days ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (5 days ago)
 - **[roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)** - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp (1 week ago)
-- **[numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)** - :fire: No-nonsense floating terminal plugin for neovim :fire: (1 week ago)
 
 ---
 
