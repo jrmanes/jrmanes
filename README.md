@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (today)
 - **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (1 day ago)
 - **[koekeishiya/yabai](https://github.com/koekeishiya/yabai)** - A tiling window manager for macOS based on binary space partitioning (1 day ago)
 - **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (3 days ago)
 - **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (6 days ago)
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (6 days ago)
 
 ---
 
