@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (4 weeks ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
+- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (today)
 - **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (today)
 - **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (1 day ago)
 - **[koekeishiya/yabai](https://github.com/koekeishiya/yabai)** - A tiling window manager for macOS based on binary space partitioning (1 day ago)
 - **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (3 days ago)
-- **[runatlantis/atlantis](https://github.com/runatlantis/atlantis)** - Terraform Pull Request Automation (6 days ago)
 
 ---
 
