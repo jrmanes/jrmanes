@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (4 weeks ago)
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
 - [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (1 month ago)
 
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (today)
-- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (today)
-- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (1 day ago)
-- **[koekeishiya/yabai](https://github.com/koekeishiya/yabai)** - A tiling window manager for macOS based on binary space partitioning (1 day ago)
-- **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (3 days ago)
+- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (1 day ago)
+- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (1 day ago)
+- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (2 days ago)
+- **[koekeishiya/yabai](https://github.com/koekeishiya/yabai)** - A tiling window manager for macOS based on binary space partitioning (2 days ago)
+- **[googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)** - Google Cloud Client Libraries for Go. (4 days ago)
 
 ---
 
