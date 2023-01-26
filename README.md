@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
@@ -75,11 +75,11 @@
 #### ⭐ Recent Stars
 
 
-- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (today)
-- **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (today)
-- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (2 days ago)
-- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (2 days ago)
-- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (3 days ago)
+- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (1 day ago)
+- **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (1 day ago)
+- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (3 days ago)
+- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (3 days ago)
+- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (4 days ago)
 
 ---
 
