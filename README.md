@@ -86,6 +86,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: Prevent any errors when creating the data folder](https://github.com/celestiaorg/celestia-app/pull/1303) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (5 months ago)
 
 ---
