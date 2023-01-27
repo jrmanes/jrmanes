@@ -56,18 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
-- [jrmanes/linux-tools](https://github.com/jrmanes/linux-tools) - Useful tools to manage Linux systems (1 month ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (1 month ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc3](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc3) (1 day ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
@@ -75,18 +76,18 @@
 #### ⭐ Recent Stars
 
 
-- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (1 day ago)
-- **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (1 day ago)
-- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (3 days ago)
-- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (3 days ago)
-- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (4 days ago)
+- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (2 days ago)
+- **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (2 days ago)
+- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (4 days ago)
+- **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (4 days ago)
+- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (5 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Prevent any errors when creating the data folder](https://github.com/celestiaorg/celestia-app/pull/1303) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
+- [feat: Prevent any errors when creating the data folder](https://github.com/celestiaorg/celestia-app/pull/1303) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
 - [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (5 months ago)
 
 ---
