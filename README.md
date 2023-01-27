@@ -76,11 +76,11 @@
 #### ⭐ Recent Stars
 
 
+- **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (today)
 - **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (2 days ago)
 - **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (2 days ago)
 - **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (4 days ago)
 - **[renovatebot/renovate](https://github.com/renovatebot/renovate)** - Universal dependency update tool that fits into your workflows. (4 days ago)
-- **[controlplaneio/kubesec](https://github.com/controlplaneio/kubesec)** - Security risk analysis for Kubernetes resources (5 days ago)
 
 ---
 
