@@ -76,11 +76,11 @@
 #### ⭐ Recent Stars
 
 
+- **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (today)
 - **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (3 days ago)
 - **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (3 days ago)
 - **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (5 days ago)
 - **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (5 days ago)
-- **[celestiaorg/celestia-sre](https://github.com/celestiaorg/celestia-sre)** - Celestia SRE  (1 week ago)
 
 ---
 
