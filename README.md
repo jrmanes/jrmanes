@@ -76,11 +76,11 @@
 #### ⭐ Recent Stars
 
 
+- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
 - **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 day ago)
 - **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (4 days ago)
 - **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (4 days ago)
 - **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (6 days ago)
-- **[hexops/dockerfile](https://github.com/hexops/dockerfile)** - Dockerfile best-practices for writing production-worthy Docker images. (6 days ago)
 
 ---
 
