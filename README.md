@@ -76,11 +76,11 @@
 #### ⭐ Recent Stars
 
 
+- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
 - **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 - **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (2 days ago)
 - **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (5 days ago)
 - **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (5 days ago)
-- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (1 week ago)
 
 ---
 
