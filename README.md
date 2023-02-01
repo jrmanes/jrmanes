@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (5 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (6 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
 - [jrmanes/aoc2022](https://github.com/jrmanes/aoc2022) - Advent of Code 2022 (1 month ago)
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.12.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc4) (4 days ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc4) (5 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
@@ -76,18 +76,19 @@
 #### ⭐ Recent Stars
 
 
-- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
-- **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 day ago)
-- **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (4 days ago)
-- **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (4 days ago)
-- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (6 days ago)
+- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (2 days ago)
+- **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (5 days ago)
+- **[rollkit/rollkit](https://github.com/rollkit/rollkit)** - ABCI-client implementation for rollups. (5 days ago)
+- **[bitnami/charts](https://github.com/bitnami/charts)** - Bitnami Helm Charts (1 week ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Prevent any errors when creating the data folder](https://github.com/celestiaorg/celestia-app/pull/1303) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
+- [feat!: Docker CI - Security added &amp; Tagging updates](https://github.com/celestiaorg/celestia-app/pull/1320) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [feat: Prevent any errors when creating the data folder](https://github.com/celestiaorg/celestia-app/pull/1303) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
 - [feat: Upgrade Cert-Manager version to the latest(v1.9.1)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/699) on [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp) (5 months ago)
 
 ---
