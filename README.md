@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (1 day ago)
+- [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (today)
 - [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (2 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
@@ -76,11 +76,11 @@
 #### ⭐ Recent Stars
 
 
+- **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (today)
 - **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (1 day ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (4 days ago)
 - **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (5 days ago)
 - **[celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra)** - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (6 days ago)
-- **[celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node)** - Celestia Data Availability Nodes (1 week ago)
 
 ---
 
