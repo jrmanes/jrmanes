@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (2 days ago)
 - [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (4 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
 
 ---
 
@@ -68,6 +68,7 @@
 
 
 - [celestiaorg/celestia-app @ v0.12.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc6) (4 days ago)
+- [celestiaorg/celestia-node @ v0.6.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.6.4) (5 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
@@ -76,11 +77,11 @@
 #### ⭐ Recent Stars
 
 
+- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
 - **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (1 day ago)
 - **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (2 days ago)
 - **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (3 days ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (6 days ago)
-- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 week ago)
 
 ---
 
