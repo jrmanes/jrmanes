@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (1 day ago)
-- [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (3 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (2 days ago)
+- [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (4 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.12.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc6) (3 days ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc6) (4 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
@@ -76,22 +76,22 @@
 #### ⭐ Recent Stars
 
 
-- **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (today)
-- **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (1 day ago)
-- **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (2 days ago)
-- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (5 days ago)
-- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (6 days ago)
+- **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (2 days ago)
+- **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (3 days ago)
+- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (6 days ago)
+- **[docker/metadata-action](https://github.com/docker/metadata-action)** - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 week ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat!: Move Dockerfile to the root of the project](https://github.com/celestiaorg/celestia-node/pull/1693) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [Testing fork - from jrmanes repo](https://github.com/celestiaorg/test-docker-images/pull/2) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (3 days ago)
-- [Force new PR](https://github.com/celestiaorg/test-docker-images/pull/1) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (3 days ago)
-- [force new commit](https://github.com/jrmanes/docker-cicd/pull/2) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (3 days ago)
-- [feat!: Docker CI - Security added &amp; Tagging updates - 2](https://github.com/celestiaorg/celestia-app/pull/1327) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (4 days ago)
+- [feat!: Move Dockerfile to the root of the project](https://github.com/celestiaorg/celestia-node/pull/1693) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [Testing fork - from jrmanes repo](https://github.com/celestiaorg/test-docker-images/pull/2) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (4 days ago)
+- [Force new PR](https://github.com/celestiaorg/test-docker-images/pull/1) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (4 days ago)
+- [force new commit](https://github.com/jrmanes/docker-cicd/pull/2) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (4 days ago)
+- [feat!: Docker CI - Security added &amp; Tagging updates - 2](https://github.com/celestiaorg/celestia-app/pull/1327) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
 
 ---
 
