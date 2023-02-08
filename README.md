@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (3 days ago)
 - [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (5 days ago)
@@ -88,11 +88,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [merging to main](https://github.com/jrmanes/docker-cicd/pull/3) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (today)
+- [feat: Increase the yaml linter length line to 120](https://github.com/celestiaorg/.github/pull/28) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 - [feat!: Move Dockerfile to the root of the project](https://github.com/celestiaorg/celestia-node/pull/1693) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
 - [Testing fork - from jrmanes repo](https://github.com/celestiaorg/test-docker-images/pull/2) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (5 days ago)
 - [Force new PR](https://github.com/celestiaorg/test-docker-images/pull/1) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (5 days ago)
-- [force new commit](https://github.com/jrmanes/docker-cicd/pull/2) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (5 days ago)
-- [feat!: Docker CI - Security added &amp; Tagging updates - 2](https://github.com/celestiaorg/celestia-app/pull/1327) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
 
 ---
 
