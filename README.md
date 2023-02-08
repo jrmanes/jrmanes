@@ -56,20 +56,21 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (3 days ago)
-- [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) -  (5 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-node @ v0.7.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc1) (today)
 - [celestiaorg/celestia-app @ v0.12.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc6) (5 days ago)
-- [celestiaorg/celestia-node @ v0.6.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.6.4) (6 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
+- [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
 
 ---
