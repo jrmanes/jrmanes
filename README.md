@@ -45,22 +45,22 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
+- **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
 - **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
 - **[jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd)** - Testing Github Actions
 - **[jrmanes/aoc2022](https://github.com/jrmanes/aoc2022)** - Advent of Code 2022
 - **[jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles)**
-- **[jrmanes/osx-config](https://github.com/jrmanes/osx-config)** - Like dotenvs, but with Ansible
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
-- [jrmanes/toml2cm](https://github.com/jrmanes/toml2cm) -  (4 days ago)
 
 ---
 
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [test: testing common ci](https://github.com/jrmanes/docker-cicd/pull/5) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (today)
+- [use common pipelien in jrmanes/.github](https://github.com/jrmanes/docker-cicd/pull/4) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (today)
 - [merging to main](https://github.com/jrmanes/docker-cicd/pull/3) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
 - [feat: Increase the yaml linter length line to 120](https://github.com/celestiaorg/.github/pull/28) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
 - [feat!: Move Dockerfile to the root of the project](https://github.com/celestiaorg/celestia-node/pull/1693) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
-- [Testing fork - from jrmanes repo](https://github.com/celestiaorg/test-docker-images/pull/2) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (6 days ago)
-- [Force new PR](https://github.com/celestiaorg/test-docker-images/pull/1) on [celestiaorg/test-docker-images](https://github.com/celestiaorg/test-docker-images) (6 days ago)
 
 ---
 
