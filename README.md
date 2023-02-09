@@ -58,17 +58,17 @@
 
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (today)
 - [celestiaorg/celestia-node @ v0.7.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc1) (1 day ago)
-- [celestiaorg/celestia-app @ v0.12.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc6) (6 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: Fix prefix `v` in RCs](https://github.com/celestiaorg/celestia-app/pull/1364) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [test: testing common ci](https://github.com/jrmanes/docker-cicd/pull/5) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (today)
 - [use common pipelien in jrmanes/.github](https://github.com/jrmanes/docker-cicd/pull/4) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (today)
 - [merging to main](https://github.com/jrmanes/docker-cicd/pull/3) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
 - [feat: Increase the yaml linter length line to 120](https://github.com/celestiaorg/.github/pull/28) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
-- [feat!: Move Dockerfile to the root of the project](https://github.com/celestiaorg/celestia-node/pull/1693) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
 
 ---
 
