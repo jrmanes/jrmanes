@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (1 day ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (1 day ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
 
 ---
 
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: Common Docker CI pipeline](https://github.com/celestiaorg/.github/pull/29) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 - [fix: Fix prefix `v` in RCs](https://github.com/celestiaorg/celestia-app/pull/1364) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
 - [test: testing common ci](https://github.com/jrmanes/docker-cicd/pull/5) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
 - [use common pipelien in jrmanes/.github](https://github.com/jrmanes/docker-cicd/pull/4) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
 - [merging to main](https://github.com/jrmanes/docker-cicd/pull/3) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (2 days ago)
-- [feat: Increase the yaml linter length line to 120](https://github.com/celestiaorg/.github/pull/28) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
 
 ---
 
