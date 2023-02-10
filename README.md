@@ -57,17 +57,17 @@
 
 
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc2) (1 day ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc3) (today)
 - [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 day ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
+- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
+- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-app/pull/1366) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
+- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-node/pull/1733) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
 - [feat: Common Docker CI pipeline](https://github.com/celestiaorg/.github/pull/29) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
-- [fix: Fix prefix `v` in RCs](https://github.com/celestiaorg/celestia-app/pull/1364) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
-- [test: testing common ci](https://github.com/jrmanes/docker-cicd/pull/5) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
-- [use common pipelien in jrmanes/.github](https://github.com/jrmanes/docker-cicd/pull/4) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (1 day ago)
-- [merging to main](https://github.com/jrmanes/docker-cicd/pull/3) on [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) (2 days ago)
 
 ---
 
