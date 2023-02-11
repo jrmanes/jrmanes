@@ -56,19 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
-- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc3) (today)
-- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 day ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc3) (1 day ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (2 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
-- **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (4 days ago)
-- **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (5 days ago)
-- **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (6 days ago)
+- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
+- **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (5 days ago)
+- **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (6 days ago)
+- **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (1 week ago)
 - **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 
 ---
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
-- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-app/pull/1366) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
-- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-node/pull/1733) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [feat: Common Docker CI pipeline](https://github.com/celestiaorg/.github/pull/29) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
+- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-app/pull/1366) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-node/pull/1733) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [feat: Common Docker CI pipeline](https://github.com/celestiaorg/.github/pull/29) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
 
 ---
 
