@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[joho/godotenv](https://github.com/joho/godotenv)** - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (today)
 - **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
 - **[docker/build-push-action](https://github.com/docker/build-push-action)** - GitHub Action to build and push Docker images with Buildx (5 days ago)
 - **[lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)** - Concurrency patterns in Go (6 days ago)
 - **[ardanlabs/smartcontract](https://github.com/ardanlabs/smartcontract)** (1 week ago)
-- **[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)** - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 
 ---
 
