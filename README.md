@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (today)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 days ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
-- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (3 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
 
 ---
 
@@ -93,7 +93,6 @@
 - [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
 - [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-app/pull/1366) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (3 days ago)
 - [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-node/pull/1733) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
-- [feat: Common Docker CI pipeline](https://github.com/celestiaorg/.github/pull/29) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (3 days ago)
 
 ---
 
