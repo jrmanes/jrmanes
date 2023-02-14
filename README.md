@@ -91,8 +91,6 @@
 
 - [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (4 days ago)
 - [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
-- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-app/pull/1366) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (4 days ago)
-- [chore: Add EditorConfig](https://github.com/celestiaorg/celestia-node/pull/1733) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
 
 ---
 
