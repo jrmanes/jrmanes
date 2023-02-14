@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (1 day ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (4 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (4 days ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
 
 ---
