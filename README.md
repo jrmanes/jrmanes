@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (2 days ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (5 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (5 days ago)
 
 ---
 
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (today)
 - **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 day ago)
 - **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (3 days ago)
 - **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (3 days ago)
 - **[joho/godotenv](https://github.com/joho/godotenv)** - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (4 days ago)
-- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 week ago)
 
 ---
 
