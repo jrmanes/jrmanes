@@ -89,8 +89,9 @@
 #### 🔨 My recent Pull Requests
 
 
+- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
+- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
-- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-node/pull/1737) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
 
 ---
 
