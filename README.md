@@ -56,19 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (2 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (3 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc4) (2 days ago)
-- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (6 days ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc4) (3 days ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -78,20 +78,20 @@
 #### ⭐ Recent Stars
 
 
-- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (today)
-- **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 day ago)
-- **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (3 days ago)
-- **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (3 days ago)
-- **[joho/godotenv](https://github.com/joho/godotenv)** - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (4 days ago)
+- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (1 day ago)
+- **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (2 days ago)
+- **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (4 days ago)
+- **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (4 days ago)
+- **[joho/godotenv](https://github.com/joho/godotenv)** - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (5 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
-- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
+- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
 
 ---
 
