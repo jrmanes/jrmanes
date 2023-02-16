@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the the cosmos-sdk (3 days ago)
@@ -89,9 +89,9 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: repositories naming](https://github.com/celestiaorg/.github/pull/33) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 - [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
 - [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
-- [feat: Use common Docker Build Pipeline](https://github.com/celestiaorg/celestia-app/pull/1370) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
 
 ---
 
