@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc5) (today)
+- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (today)
 - [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
