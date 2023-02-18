@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (today)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (1 day ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (today)
+- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (1 day ago)
 - [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
@@ -78,22 +78,22 @@
 #### ⭐ Recent Stars
 
 
-- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 day ago)
-- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (2 days ago)
-- **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (3 days ago)
-- **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (5 days ago)
-- **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (5 days ago)
+- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (2 days ago)
+- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (3 days ago)
+- **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (4 days ago)
+- **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (6 days ago)
+- **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (6 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [refactor: Cleanup old Pipeline](https://github.com/celestiaorg/celestia-node/pull/1764) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [refactor: Cleanup old Pipelines](https://github.com/celestiaorg/celestia-app/pull/1401) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
-- [fix: repositories naming](https://github.com/celestiaorg/.github/pull/33) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
-- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
-- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (2 days ago)
+- [refactor: Cleanup old Pipeline](https://github.com/celestiaorg/celestia-node/pull/1764) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [refactor: Cleanup old Pipelines](https://github.com/celestiaorg/celestia-app/pull/1401) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [fix: repositories naming](https://github.com/celestiaorg/.github/pull/33) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
+- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
+- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (3 days ago)
 
 ---
 
