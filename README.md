@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (2 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 days ago)
