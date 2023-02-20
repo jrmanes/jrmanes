@@ -57,10 +57,10 @@
 
 
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (today)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (3 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 days ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (4 days ago)
 
 ---
 
@@ -93,7 +93,6 @@
 - [refactor: Cleanup old Pipelines](https://github.com/celestiaorg/celestia-app/pull/1401) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (3 days ago)
 - [fix: repositories naming](https://github.com/celestiaorg/.github/pull/33) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (4 days ago)
 - [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
-- [refactor: Keep only the common Ci](https://github.com/celestiaorg/celestia-app/pull/1383) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
 
 ---
 
