@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 day ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by celestia-core (fork of tendermint) and the cosmos-sdk (4 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (4 days ago)
 
 ---
 
@@ -89,10 +89,10 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
+- [fix: Specify Dockerfile path in docker security](https://github.com/celestiaorg/.github/pull/35) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
+- [feat: Add master to publish](https://github.com/celestiaorg/.github/pull/34) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 - [refactor: Cleanup old Pipeline](https://github.com/celestiaorg/celestia-node/pull/1764) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
-- [refactor: Cleanup old Pipelines](https://github.com/celestiaorg/celestia-app/pull/1401) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (4 days ago)
-- [fix: repositories naming](https://github.com/celestiaorg/.github/pull/33) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (5 days ago)
-- [refactor: Keep only the common CI](https://github.com/celestiaorg/celestia-node/pull/1750) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
 
 ---
 
