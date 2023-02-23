@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (3 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (6 days ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (today)
 - [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
@@ -89,10 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: change default port to 8080](https://github.com/celestiaorg/explorer/pull/3) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (today)
+- [feat: specify the base container version v0.0.1 instead of latest](https://github.com/celestiaorg/explorer/pull/2) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (today)
+- [feat: Exporter to the Kubernetes way](https://github.com/celestiaorg/explorer/pull/1) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (today)
 - [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (2 days ago)
 - [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
-- [fix: Specify Dockerfile path in docker security](https://github.com/celestiaorg/.github/pull/35) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
-- [feat: Add master to publish](https://github.com/celestiaorg/.github/pull/34) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
 
 ---
 
