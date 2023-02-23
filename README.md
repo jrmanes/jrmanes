@@ -56,19 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
+- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (3 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (5 days ago)
-- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (1 week ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc7) (6 days ago)
+- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -78,7 +78,7 @@
 #### ⭐ Recent Stars
 
 
-- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (6 days ago)
+- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
 - **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (1 week ago)
 - **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 week ago)
 - **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (1 week ago)
@@ -89,10 +89,10 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (1 day ago)
-- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
-- [fix: Specify Dockerfile path in docker security](https://github.com/celestiaorg/.github/pull/35) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
-- [feat: Add master to publish](https://github.com/celestiaorg/.github/pull/34) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
+- [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (2 days ago)
+- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
+- [fix: Specify Dockerfile path in docker security](https://github.com/celestiaorg/.github/pull/35) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
+- [feat: Add master to publish](https://github.com/celestiaorg/.github/pull/34) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
 
 ---
 
