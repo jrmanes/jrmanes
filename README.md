@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 days ago)
 
 ---
 
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (today)
 - **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
 - **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (1 week ago)
 - **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 week ago)
 - **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (1 week ago)
-- **[testground/sdk-go](https://github.com/testground/sdk-go)** - Testground: SDK for developing test plans in Go (1 week ago)
 
 ---
 
