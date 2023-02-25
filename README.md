@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (today)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 day ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (1 day ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (2 days ago)
 - [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (2 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (4 months ago)
@@ -78,7 +78,7 @@
 #### ⭐ Recent Stars
 
 
-- **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (today)
+- **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (1 day ago)
 - **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
 - **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (1 week ago)
 - **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 week ago)
@@ -89,11 +89,11 @@
 #### 🔨 My recent Pull Requests
 
 
-- [fix: change default port to 8080](https://github.com/celestiaorg/explorer/pull/3) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (1 day ago)
-- [feat: specify the base container version v0.0.1 instead of latest](https://github.com/celestiaorg/explorer/pull/2) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (1 day ago)
-- [feat: Exporter to the Kubernetes way](https://github.com/celestiaorg/explorer/pull/1) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (1 day ago)
-- [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (3 days ago)
-- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (3 days ago)
+- [fix: change default port to 8080](https://github.com/celestiaorg/explorer/pull/3) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (2 days ago)
+- [feat: specify the base container version v0.0.1 instead of latest](https://github.com/celestiaorg/explorer/pull/2) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (2 days ago)
+- [feat: Exporter to the Kubernetes way](https://github.com/celestiaorg/explorer/pull/1) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (2 days ago)
+- [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (4 days ago)
+- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (4 days ago)
 
 ---
 
