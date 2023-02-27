@@ -78,22 +78,22 @@
 #### ⭐ Recent Stars
 
 
+- **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (today)
 - **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (3 days ago)
 - **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
 - **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (1 week ago)
 - **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (1 week ago)
-- **[rcrowley/go-metrics](https://github.com/rcrowley/go-metrics)** - Go port of Coda Hale&#39;s Metrics library (2 weeks ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
+- [feat: Fauce -&gt; Add Docker CI](https://github.com/celestiaorg/cosmfaucet/pull/1) on [celestiaorg/cosmfaucet](https://github.com/celestiaorg/cosmfaucet) (today)
 - [fix: change default port to 8080](https://github.com/celestiaorg/explorer/pull/3) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (4 days ago)
 - [feat: specify the base container version v0.0.1 instead of latest](https://github.com/celestiaorg/explorer/pull/2) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (4 days ago)
 - [feat: Exporter to the Kubernetes way](https://github.com/celestiaorg/explorer/pull/1) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (4 days ago)
 - [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (6 days ago)
-- [feat: Admit new input: packageName](https://github.com/celestiaorg/.github/pull/36) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (6 days ago)
 
 ---
 
