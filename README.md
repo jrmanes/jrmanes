@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-app @ v0.12.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0) (today)
 - [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (5 days ago)
-- [celestiaorg/celestia-app @ v0.12.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0-rc7) (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (3 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
