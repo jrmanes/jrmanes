@@ -89,11 +89,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: Fauce -&gt; Add Docker CI](https://github.com/celestiaorg/cosmfaucet/pull/1) on [celestiaorg/cosmfaucet](https://github.com/celestiaorg/cosmfaucet) (1 day ago)
-- [fix: change default port to 8080](https://github.com/celestiaorg/explorer/pull/3) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (5 days ago)
-- [feat: specify the base container version v0.0.1 instead of latest](https://github.com/celestiaorg/explorer/pull/2) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (5 days ago)
-- [feat: Exporter to the Kubernetes way](https://github.com/celestiaorg/explorer/pull/1) on [celestiaorg/explorer](https://github.com/celestiaorg/explorer) (5 days ago)
-- [feat: Specify the package name](https://github.com/celestiaorg/testground/pull/10) on [celestiaorg/testground](https://github.com/celestiaorg/testground) (1 week ago)
 
 ---
 
