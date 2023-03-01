@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[scaleway/cert-manager-webhook-scaleway](https://github.com/scaleway/cert-manager-webhook-scaleway)** - A Scaleway DNS ACME webhook for cert-manager (today)
+- **[ChristianLempa/videos](https://github.com/ChristianLempa/videos)** - This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos. (today)
 - **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (2 days ago)
 - **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (5 days ago)
 - **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
-- **[terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)** - Generate documentation from Terraform modules in various output formats (2 weeks ago)
-- **[calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)** - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. (2 weeks ago)
 
 ---
 
