@@ -56,19 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (5 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (6 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (6 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
+- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (6 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.12.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0) (1 day ago)
-- [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (6 days ago)
+- [celestiaorg/celestia-app @ v0.12.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0) (2 days ago)
+- [celestiaorg/celestia-node @ v0.7.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.0-rc9) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (3 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[scaleway/cert-manager-webhook-scaleway](https://github.com/scaleway/cert-manager-webhook-scaleway)** - A Scaleway DNS ACME webhook for cert-manager (today)
-- **[ChristianLempa/videos](https://github.com/ChristianLempa/videos)** - This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos. (today)
-- **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (2 days ago)
-- **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (5 days ago)
-- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (1 week ago)
+- **[scaleway/cert-manager-webhook-scaleway](https://github.com/scaleway/cert-manager-webhook-scaleway)** - A Scaleway DNS ACME webhook for cert-manager (1 day ago)
+- **[ChristianLempa/videos](https://github.com/ChristianLempa/videos)** - This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos. (1 day ago)
+- **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (3 days ago)
+- **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (6 days ago)
+- **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (2 weeks ago)
 
 ---
 
