@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
