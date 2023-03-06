@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 week ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.12.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0) (5 days ago)
+- [celestiaorg/celestia-app @ v0.12.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.0) (6 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (3 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (1 year ago)
@@ -77,9 +77,9 @@
 #### ⭐ Recent Stars
 
 
-- **[scaleway/cert-manager-webhook-scaleway](https://github.com/scaleway/cert-manager-webhook-scaleway)** - A Scaleway DNS ACME webhook for cert-manager (4 days ago)
-- **[ChristianLempa/videos](https://github.com/ChristianLempa/videos)** - This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos. (4 days ago)
-- **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (6 days ago)
+- **[scaleway/cert-manager-webhook-scaleway](https://github.com/scaleway/cert-manager-webhook-scaleway)** - A Scaleway DNS ACME webhook for cert-manager (5 days ago)
+- **[ChristianLempa/videos](https://github.com/ChristianLempa/videos)** - This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos. (5 days ago)
+- **[celestiaorg/celestia-internal-tools](https://github.com/celestiaorg/celestia-internal-tools)** (1 week ago)
 - **[forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos)** (1 week ago)
 - **[scaleway/scaleway-csi](https://github.com/scaleway/scaleway-csi)** - Container Storage Interface (CSI) Driver for https://www.scaleway.com/block-storage/ (2 weeks ago)
 
