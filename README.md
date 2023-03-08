@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
@@ -77,11 +77,11 @@
 #### ⭐ Recent Stars
 
 
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (today)
-- **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (today)
-- **[arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim)** - An arctic, north-bluish clean and elegant Vim theme. (today)
-- **[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)** - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support (today)
-- **[rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim)** - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience. (today)
+- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 day ago)
+- **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (1 day ago)
+- **[nordtheme/vim](https://github.com/nordtheme/vim)** - An arctic, north-bluish clean and elegant Vim theme. (1 day ago)
+- **[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)** - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support (1 day ago)
+- **[rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim)** - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience. (1 day ago)
 
 ---
 
