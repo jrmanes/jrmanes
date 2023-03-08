@@ -77,17 +77,18 @@
 #### ⭐ Recent Stars
 
 
+- **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (today)
 - **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 day ago)
 - **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (1 day ago)
 - **[nordtheme/vim](https://github.com/nordtheme/vim)** - An arctic, north-bluish clean and elegant Vim theme. (1 day ago)
 - **[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)** - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support (1 day ago)
-- **[rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim)** - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience. (1 day ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
+- [fix: Error logs to stderr stream](https://github.com/celestiaorg/test-infra/pull/196) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (today)
 
 ---
 
