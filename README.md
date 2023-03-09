@@ -77,11 +77,11 @@
 #### ⭐ Recent Stars
 
 
+- **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (today)
 - **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 day ago)
 - **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (2 days ago)
 - **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (2 days ago)
 - **[nordtheme/vim](https://github.com/nordtheme/vim)** - An arctic, north-bluish clean and elegant Vim theme. (2 days ago)
-- **[shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)** - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support (2 days ago)
 
 ---
 
