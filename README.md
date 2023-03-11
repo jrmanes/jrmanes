@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
+- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (3 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (2 weeks ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 weeks ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 weeks ago)
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.13.0-rc0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0-rc0) (today)
+- [celestiaorg/celestia-app @ v0.13.0-rc0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0-rc0) (1 day ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.2.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.2.1) (3 months ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 - [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (2 years ago)
@@ -77,18 +77,18 @@
 #### ⭐ Recent Stars
 
 
-- **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (today)
-- **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (1 day ago)
-- **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (2 days ago)
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (3 days ago)
-- **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (3 days ago)
+- **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (1 day ago)
+- **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (2 days ago)
+- **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (3 days ago)
+- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (4 days ago)
+- **[distributethe6ix/70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh)** - Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh. (4 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [fix: Error logs to stderr stream](https://github.com/celestiaorg/test-infra/pull/196) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (2 days ago)
+- [fix: Error logs to stderr stream](https://github.com/celestiaorg/test-infra/pull/196) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (3 days ago)
 
 ---
 
