@@ -88,6 +88,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [WIP -&gt; fix: Go ldflags inside Dockerfile](https://github.com/celestiaorg/celestia-node/pull/1900) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
 - [fix: Error logs to stderr stream](https://github.com/celestiaorg/test-infra/pull/196) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (5 days ago)
 
 ---
