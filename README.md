@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (today)
 - **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 day ago)
 - **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (5 days ago)
 - **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (6 days ago)
 - **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 week ago)
-- **[DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix)** - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems (1 week ago)
 
 ---
 
