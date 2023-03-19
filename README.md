@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (today)
 - **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (4 days ago)
 - **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (5 days ago)
 - **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (1 week ago)
 - **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (1 week ago)
-- **[grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator)** - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 week ago)
 
 ---
 
