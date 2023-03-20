@@ -60,7 +60,7 @@
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (3 weeks ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 weeks ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 weeks ago)
 
 ---
 
@@ -70,8 +70,8 @@
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (3 days ago)
 - [celestiaorg/celestia-node @ v0.7.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.1) (5 days ago)
 - [celestiaorg/celestia-app @ v0.13.0-rc0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0-rc0) (1 week ago)
+- [celestiaorg/go-header @ v0.1.0](https://github.com/celestiaorg/go-header/releases/tag/v0.1.0) (1 month ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
-- [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (2 years ago)
 
 ---
 
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: Fix some parts - it works](https://github.com/sysrex/tf-testground/pull/1) on [sysrex/tf-testground](https://github.com/sysrex/tf-testground) (today)
 - [fix: Go ldflags inside Dockerfile](https://github.com/celestiaorg/celestia-node/pull/1900) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
-- [fix: Error logs to stderr stream](https://github.com/celestiaorg/test-infra/pull/196) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 week ago)
 
 ---
 
