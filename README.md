@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-node @ v0.7.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.2) (today)
 - [celestiaorg/go-header @ v0.2.0](https://github.com/celestiaorg/go-header/releases/tag/v0.2.0) (1 day ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (5 days ago)
-- [celestiaorg/celestia-node @ v0.7.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.1) (1 week ago)
 - [celestiaorg/celestia-app @ v0.13.0-rc0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0-rc0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (today)
 - **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (3 days ago)
 - **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (1 week ago)
 - **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 week ago)
 - **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (1 week ago)
-- **[kubernetes/client-go](https://github.com/kubernetes/client-go)** - Go client for Kubernetes. (1 week ago)
 
 ---
 
