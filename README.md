@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/go-header @ v0.2.1](https://github.com/celestiaorg/go-header/releases/tag/v0.2.1) (today)
 - [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (today)
 - [celestiaorg/celestia-node @ v0.7.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.7.2) (2 days ago)
-- [celestiaorg/go-header @ v0.2.0](https://github.com/celestiaorg/go-header/releases/tag/v0.2.0) (3 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 
@@ -90,7 +90,6 @@
 
 
 - [fix: Fix some parts - it works](https://github.com/sysrex/tf-testground/pull/1) on [sysrex/tf-testground](https://github.com/sysrex/tf-testground) (4 days ago)
-- [fix: Go ldflags inside Dockerfile](https://github.com/celestiaorg/celestia-node/pull/1900) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
 
 ---
 
