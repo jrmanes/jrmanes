@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/go-header @ v0.2.2](https://github.com/celestiaorg/go-header/releases/tag/v0.2.2) (today)
 - [celestiaorg/celestia-node @ v0.8.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0-rc1) (1 day ago)
-- [celestiaorg/go-header @ v0.2.1](https://github.com/celestiaorg/go-header/releases/tag/v0.2.1) (4 days ago)
 - [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (4 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
