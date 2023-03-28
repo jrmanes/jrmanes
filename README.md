@@ -56,19 +56,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 weeks ago)
-- [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 month ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.2](https://github.com/celestiaorg/go-header/releases/tag/v0.2.2) (today)
-- [celestiaorg/celestia-node @ v0.8.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0-rc1) (1 day ago)
+- [celestiaorg/celestia-node @ v0.8.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0) (today)
+- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (today)
 - [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (4 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
@@ -89,6 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 - [fix: Fix some parts - it works](https://github.com/sysrex/tf-testground/pull/1) on [sysrex/tf-testground](https://github.com/sysrex/tf-testground) (1 week ago)
 
 ---
