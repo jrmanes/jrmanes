@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 weeks ago)
 - [jrmanes/axectl](https://github.com/jrmanes/axectl) - DevOps/SRE set of tools (1 month ago)
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.8.0-rc0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0-rc0) (today)
-- [celestiaorg/go-header @ v0.2.1](https://github.com/celestiaorg/go-header/releases/tag/v0.2.1) (3 days ago)
-- [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (3 days ago)
+- [celestiaorg/celestia-node @ v0.8.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0-rc1) (1 day ago)
+- [celestiaorg/go-header @ v0.2.1](https://github.com/celestiaorg/go-header/releases/tag/v0.2.1) (4 days ago)
+- [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (4 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (5 months ago)
 
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (5 days ago)
+- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (6 days ago)
 - **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (1 week ago)
 - **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (1 week ago)
-- **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 week ago)
+- **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (2 weeks ago)
 - **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (2 weeks ago)
 
 ---
