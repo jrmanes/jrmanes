@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 weeks ago)
 
 ---
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.8.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0) (1 day ago)
-- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (1 day ago)
-- [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (5 days ago)
+- [celestiaorg/celestia-node @ v0.8.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0) (2 days ago)
+- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (2 days ago)
+- [celestiaorg/celestia-app @ v0.12.1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.12.1) (6 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
 - [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (6 months ago)
 
@@ -89,7 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
+- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
 - [fix: Fix some parts - it works](https://github.com/sysrex/tf-testground/pull/1) on [sysrex/tf-testground](https://github.com/sysrex/tf-testground) (1 week ago)
 
 ---
