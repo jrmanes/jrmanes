@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.14.0-rc0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc0) (today)
+- [celestiaorg/celestia-app @ v0.13.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0-rc1) (today)
 - [celestiaorg/celestia-node @ v0.8.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.0) (2 days ago)
 - [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (2 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (1 week ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (today)
+- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (today)
 - **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (1 week ago)
 - **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (1 week ago)
 - **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (2 weeks ago)
-- **[gin-gonic/gin](https://github.com/gin-gonic/gin)** - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (2 weeks ago)
-- **[celestiaorg/test-infra](https://github.com/celestiaorg/test-infra)** - Testing infrastructure for the Celestia Network (2 weeks ago)
 
 ---
 
@@ -90,7 +90,6 @@
 
 
 - [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
-- [fix: Fix some parts - it works](https://github.com/sysrex/tf-testground/pull/1) on [sysrex/tf-testground](https://github.com/sysrex/tf-testground) (1 week ago)
 
 ---
 
