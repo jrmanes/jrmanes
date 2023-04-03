@@ -71,18 +71,18 @@
 - [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (3 days ago)
 - [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (6 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (2 weeks ago)
-- [celestiaorg/.github @ v0.0.2](https://github.com/celestiaorg/.github/releases/tag/v0.0.2) (6 months ago)
+- [jrmanes/go-cidr @ v1.2.0](https://github.com/jrmanes/go-cidr/releases/tag/v1.2.0) (2 years ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
+- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (today)
 - **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (4 days ago)
 - **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (4 days ago)
 - **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (1 week ago)
 - **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (2 weeks ago)
-- **[bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)** - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. (2 weeks ago)
 
 ---
 
