@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (5 days ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (6 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (6 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 weeks ago)
 
 ---
@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.1.0](https://github.com/celestiaorg/.github/releases/tag/v0.1.0) (today)
-- [celestiaorg/celestia-node @ v0.8.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.1) (3 days ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (3 days ago)
-- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (6 days ago)
+- [celestiaorg/.github @ v0.1.0](https://github.com/celestiaorg/.github/releases/tag/v0.1.0) (1 day ago)
+- [celestiaorg/celestia-node @ v0.8.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.1) (4 days ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (4 days ago)
+- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (2 weeks ago)
 
 ---
@@ -78,9 +78,9 @@
 #### ⭐ Recent Stars
 
 
-- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (today)
-- **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (4 days ago)
-- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (4 days ago)
+- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (1 day ago)
+- **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (5 days ago)
+- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (5 days ago)
 - **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (1 week ago)
 - **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (2 weeks ago)
 
@@ -89,7 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (6 days ago)
+- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
 
 ---
 
