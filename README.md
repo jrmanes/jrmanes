@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 weeks ago)
 
 ---
 
