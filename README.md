@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (today)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (1 day ago)
 - **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (5 days ago)
 - **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (5 days ago)
 - **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (1 week ago)
-- **[redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)** - Be great at emacs in one year (2 weeks ago)
 
 ---
 
