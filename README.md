@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
+- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.1.0](https://github.com/celestiaorg/.github/releases/tag/v0.1.0) (1 day ago)
-- [celestiaorg/celestia-node @ v0.8.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.1) (4 days ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (4 days ago)
+- [celestiaorg/.github @ v0.1.0](https://github.com/celestiaorg/.github/releases/tag/v0.1.0) (2 days ago)
+- [celestiaorg/celestia-node @ v0.8.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.1) (5 days ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (5 days ago)
 - [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (2 weeks ago)
 
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (today)
-- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (1 day ago)
-- **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (5 days ago)
-- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (5 days ago)
-- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (1 week ago)
+- **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (1 day ago)
+- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (2 days ago)
+- **[celestiaorg/local-celestia-devnet](https://github.com/celestiaorg/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (6 days ago)
+- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (6 days ago)
+- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (2 weeks ago)
 
 ---
 
