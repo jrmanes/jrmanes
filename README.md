@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/go-header @ v0.2.4](https://github.com/celestiaorg/go-header/releases/tag/v0.2.4) (today)
 - [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (2 days ago)
 - [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (2 days ago)
 - [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (1 week ago)
-- [celestiaorg/go-header @ v0.2.3](https://github.com/celestiaorg/go-header/releases/tag/v0.2.3) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (3 weeks ago)
 
 ---
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (today)
 - **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (3 days ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (4 days ago)
 - **[rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (1 week ago)
 - **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (1 week ago)
-- **[aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)** - Configure and deploy complete EKS clusters. (2 weeks ago)
 
 ---
 
