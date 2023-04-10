@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (5 days ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (6 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (today)
 - **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (3 days ago)
 - **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (6 days ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (1 week ago)
 - **[rollkit/local-celestia-devnet](https://github.com/rollkit/local-celestia-devnet)** - Docker image exposing celestia-node devnet for CI and local development (1 week ago)
-- **[nicolas-van/multirun](https://github.com/nicolas-van/multirun)** - A minimalist init process designed for Docker (1 week ago)
 
 ---
 
