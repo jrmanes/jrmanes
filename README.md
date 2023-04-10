@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (5 days ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (6 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 
 ---
 
