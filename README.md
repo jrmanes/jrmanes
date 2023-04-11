@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
