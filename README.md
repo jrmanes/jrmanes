@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
@@ -67,11 +67,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.4](https://github.com/celestiaorg/go-header/releases/tag/v0.2.4) (5 days ago)
+- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (today)
+- [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (today)
 - [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (1 week ago)
 - [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (1 week ago)
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (3 weeks ago)
 
 ---
 
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [test chainid](https://github.com/jrmanes/.github/pull/1) on [jrmanes/.github](https://github.com/jrmanes/.github) (today)
 - [fix: undo matrix](https://github.com/celestiaorg/.github/pull/47) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
-- [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 weeks ago)
 
 ---
 
