@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 weeks ago)
 
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.4](https://github.com/celestiaorg/go-header/releases/tag/v0.2.4) (4 days ago)
-- [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (6 days ago)
-- [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (6 days ago)
+- [celestiaorg/go-header @ v0.2.4](https://github.com/celestiaorg/go-header/releases/tag/v0.2.4) (5 days ago)
+- [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
+- [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (1 week ago)
 - [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.0) (3 weeks ago)
 
@@ -78,18 +78,18 @@
 #### ⭐ Recent Stars
 
 
-- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (1 day ago)
-- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (1 day ago)
-- **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (4 days ago)
+- **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (1 day ago)
+- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (2 days ago)
+- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (2 days ago)
+- **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (5 days ago)
 - **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (1 week ago)
-- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes SRE superpowers to everyone (1 week ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [fix: undo matrix](https://github.com/celestiaorg/.github/pull/47) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (6 days ago)
+- [fix: undo matrix](https://github.com/celestiaorg/.github/pull/47) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
 - [feat: build container with matrix, it might speed up the process](https://github.com/celestiaorg/.github/pull/43) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 weeks ago)
 
 ---
