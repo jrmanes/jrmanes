@@ -67,22 +67,22 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (today)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (1 day ago)
 - [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (1 day ago)
 - [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (1 week ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc1) (1 week ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
+- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (today)
 - **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (today)
 - **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (2 days ago)
 - **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (3 days ago)
 - **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (3 days ago)
-- **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (6 days ago)
 
 ---
 
