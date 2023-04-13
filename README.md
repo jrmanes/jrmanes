@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
@@ -78,19 +78,17 @@
 #### ⭐ Recent Stars
 
 
+- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (today)
 - **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (2 days ago)
 - **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (3 days ago)
 - **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (3 days ago)
 - **[testground/docs](https://github.com/testground/docs)** - Content for docs.testground.ai (6 days ago)
-- **[pyroscope-io/helm-chart](https://github.com/pyroscope-io/helm-chart)** - Pyroscope Helm Chart (1 week ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [test chainid](https://github.com/jrmanes/.github/pull/1) on [jrmanes/.github](https://github.com/jrmanes/.github) (1 day ago)
-- [fix: undo matrix](https://github.com/celestiaorg/.github/pull/47) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
 
 ---
 
