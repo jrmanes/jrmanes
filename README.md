@@ -56,22 +56,22 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (today)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (2 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
-- [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-node @ v0.9.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.0-rc1) (today)
 - [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 day ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (2 days ago)
 - [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (2 days ago)
 - [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
-- [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (1 week ago)
 
 ---
 
