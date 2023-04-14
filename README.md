@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
-- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [celestiaorg/devops](https://github.com/celestiaorg/devops) -  (1 week ago)
 
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (today)
-- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (1 day ago)
-- [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (1 day ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 day ago)
+- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (2 days ago)
+- [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (2 days ago)
 - [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.8.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.8.2) (1 week ago)
 
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (today)
-- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (today)
-- **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (2 days ago)
-- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (3 days ago)
-- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (3 days ago)
+- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (1 day ago)
+- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (1 day ago)
+- **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (3 days ago)
+- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (4 days ago)
+- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (4 days ago)
 
 ---
 
