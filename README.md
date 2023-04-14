@@ -67,11 +67,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.0-rc1) (today)
+- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (today)
+- [celestiaorg/celestia-node @ v0.9.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.0) (today)
 - [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 day ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (2 days ago)
 - [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (2 days ago)
-- [celestiaorg/.github @ v0.1.1](https://github.com/celestiaorg/.github/releases/tag/v0.1.1) (1 week ago)
 
 ---
 
