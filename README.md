@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (today)
 - **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (4 days ago)
 - **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (4 days ago)
 - **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (6 days ago)
 - **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (1 week ago)
-- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (1 week ago)
 
 ---
 
