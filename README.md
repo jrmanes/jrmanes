@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (2 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
-- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (4 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (3 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
+- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (5 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 
 ---
@@ -67,22 +67,22 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (2 days ago)
-- [celestiaorg/celestia-node @ v0.9.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.0) (2 days ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (3 days ago)
-- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (4 days ago)
-- [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (4 days ago)
+- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (3 days ago)
+- [celestiaorg/celestia-node @ v0.9.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.0) (3 days ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (4 days ago)
+- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (5 days ago)
+- [celestiaorg/go-header @ v0.2.5](https://github.com/celestiaorg/go-header/releases/tag/v0.2.5) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (3 days ago)
-- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (3 days ago)
-- **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (5 days ago)
-- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (6 days ago)
-- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (6 days ago)
+- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (4 days ago)
+- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (4 days ago)
+- **[terraform-linters/tflint](https://github.com/terraform-linters/tflint)** - A Pluggable Terraform Linter (6 days ago)
+- **[Guilouz/Klipper-Flsun-Speeder-Pad](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)** - Klipper Configurations for FLSUN Speeder Pad (1 week ago)
+- **[microsoft/pyright](https://github.com/microsoft/pyright)** - Static Type Checker for Python (1 week ago)
 
 ---
 
