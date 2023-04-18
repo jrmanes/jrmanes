@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (3 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
-- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (5 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (4 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (5 days ago)
+- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (6 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 
 ---
@@ -67,22 +67,22 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (today)
-- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (today)
-- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (3 days ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (4 days ago)
-- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (5 days ago)
+- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (1 day ago)
+- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (1 day ago)
+- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (4 days ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (5 days ago)
+- [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (today)
-- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (today)
-- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (today)
-- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (4 days ago)
-- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (4 days ago)
+- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (1 day ago)
+- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (1 day ago)
+- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (1 day ago)
+- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (5 days ago)
+- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (5 days ago)
 
 ---
 
