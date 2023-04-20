@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
-- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (5 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (6 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
+- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (6 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (1 week ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 weeks ago)
 
@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (2 days ago)
-- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (2 days ago)
-- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (5 days ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (6 days ago)
+- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (3 days ago)
+- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (3 days ago)
+- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (6 days ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (1 week ago)
 
 ---
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (2 days ago)
-- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (2 days ago)
-- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (2 days ago)
-- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (6 days ago)
-- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (6 days ago)
+- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (3 days ago)
+- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (3 days ago)
+- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (3 days ago)
+- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (1 week ago)
+- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (1 week ago)
 
 ---
 
