@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (today)
+- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (today)
 - **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (3 days ago)
 - **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (3 days ago)
 - **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (3 days ago)
-- **[prometheus/client_golang](https://github.com/prometheus/client_golang)** - Prometheus instrumentation library for Go applications (1 week ago)
-- **[Flsun3d/Flsun_Speeder_Pad](https://github.com/Flsun3d/Flsun_Speeder_Pad)** (1 week ago)
 
 ---
 
