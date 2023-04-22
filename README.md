@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (1 week ago)
@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (4 days ago)
-- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (4 days ago)
+- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (5 days ago)
+- [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (5 days ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 week ago)
 - [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (1 week ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (1 day ago)
-- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (1 day ago)
-- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (4 days ago)
-- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (4 days ago)
-- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (4 days ago)
+- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (2 days ago)
+- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (2 days ago)
+- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (5 days ago)
+- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (5 days ago)
+- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (5 days ago)
 
 ---
 
