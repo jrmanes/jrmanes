@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (today)
 - **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (4 days ago)
 - **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (4 days ago)
 - **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (1 week ago)
 - **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (1 week ago)
-- **[quicsec/quicsec](https://github.com/quicsec/quicsec)** - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs (1 week ago)
 
 ---
 
