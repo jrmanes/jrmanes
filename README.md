@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (1 week ago)
@@ -78,9 +78,9 @@
 #### ⭐ Recent Stars
 
 
-- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (today)
-- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (4 days ago)
-- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (4 days ago)
+- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (1 day ago)
+- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (5 days ago)
+- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (5 days ago)
 - **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (1 week ago)
 - **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (1 week ago)
 
