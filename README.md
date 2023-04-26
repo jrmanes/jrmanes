@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 week ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (2 weeks ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (today)
 - **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (2 days ago)
 - **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (6 days ago)
 - **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (6 days ago)
 - **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (1 week ago)
-- **[rollkit/gm](https://github.com/rollkit/gm)** - A repository of the completed gm-world tutorial. (1 week ago)
 
 ---
 
