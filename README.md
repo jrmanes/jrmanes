@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 week ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (2 weeks ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 weeks ago)
@@ -70,7 +70,7 @@
 - [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (1 week ago)
 - [celestiaorg/go-header @ v0.2.6](https://github.com/celestiaorg/go-header/releases/tag/v0.2.6) (1 week ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 week ago)
-- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (1 week ago)
+- [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (2 weeks ago)
 
 ---
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (today)
-- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (2 days ago)
-- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (6 days ago)
-- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (6 days ago)
+- **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 day ago)
+- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (3 days ago)
+- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
+- **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (1 week ago)
 - **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (1 week ago)
 
 ---
