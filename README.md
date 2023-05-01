@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (2 weeks ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (2 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (today)
 - **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (5 days ago)
 - **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
 - **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - **[IBM/core-dump-handler](https://github.com/IBM/core-dump-handler)** - Save core dumps from a Kubernetes Service or RedHat OpenShift to an S3 protocol compatible object store (1 week ago)
-- **[multiformats/multiaddr](https://github.com/multiformats/multiaddr)** - Composable and future-proof network addresses (2 weeks ago)
 
 ---
 
