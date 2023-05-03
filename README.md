@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (today)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (6 days ago)
-- [celestiaorg/celestia-node @ v0.9.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.1) (2 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (2 weeks ago)
 - [celestiaorg/celestia-app @ v0.14.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.14.0-rc2) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (3 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (today)
 - **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (1 day ago)
 - **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (2 days ago)
 - **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 week ago)
 - **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
-- **[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 
 ---
 
