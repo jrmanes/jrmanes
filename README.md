@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (2 weeks ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (3 weeks ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (4 weeks ago)
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.13.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0) (today)
-- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (today)
-- [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (6 days ago)
+- [celestiaorg/celestia-app @ v0.13.0](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.0) (1 day ago)
+- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (1 day ago)
+- [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 week ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (3 weeks ago)
 
@@ -78,9 +78,9 @@
 #### ⭐ Recent Stars
 
 
-- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (today)
-- **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (1 day ago)
-- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (2 days ago)
+- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (1 day ago)
+- **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (2 days ago)
+- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (3 days ago)
 - **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 week ago)
 - **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
 
@@ -89,7 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: TestGround GA](https://github.com/celestiaorg/.github/pull/57) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (6 days ago)
+- [feat: TestGround GA](https://github.com/celestiaorg/.github/pull/57) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
 
 ---
 
