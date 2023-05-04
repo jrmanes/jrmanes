@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (2 weeks ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (3 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (today)
 - **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (1 day ago)
 - **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (2 days ago)
 - **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (3 days ago)
 - **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 week ago)
-- **[robusta-dev/krr](https://github.com/robusta-dev/krr)** - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
 
 ---
 
