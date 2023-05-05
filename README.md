@@ -56,21 +56,21 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
-- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (2 weeks ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
+- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (3 weeks ago)
 - [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (3 weeks ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (4 weeks ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 month ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (today)
-- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (1 day ago)
+- [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (1 day ago)
+- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (2 days ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 week ago)
-- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (2 weeks ago)
+- [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (3 weeks ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (3 weeks ago)
 
 ---
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (today)
-- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (1 day ago)
-- **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (2 days ago)
-- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (3 days ago)
+- **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (1 day ago)
+- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (2 days ago)
+- **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (3 days ago)
+- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (4 days ago)
 - **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 week ago)
 
 ---
