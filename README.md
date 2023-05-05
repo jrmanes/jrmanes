@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)** - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (today)
 - **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (1 day ago)
 - **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (2 days ago)
 - **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (3 days ago)
 - **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (4 days ago)
-- **[helix-editor/helix](https://github.com/helix-editor/helix)** - A post-modern modal text editor. (1 week ago)
 
 ---
 
