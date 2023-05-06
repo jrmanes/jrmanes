@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (5 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (3 weeks ago)
-- [jrmanes/docker_tools](https://github.com/jrmanes/docker_tools) - Some Docker common tools (3 weeks ago)
 
 ---
 
