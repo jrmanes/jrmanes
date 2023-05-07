@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (6 days ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (3 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (today)
+- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (today)
 - **[external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)** - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (2 days ago)
 - **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (3 days ago)
 - **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (4 days ago)
-- **[celestiaorg/nmt](https://github.com/celestiaorg/nmt)** - Namespaced Merkle Tree (5 days ago)
-- **[akilans/golang-mini-projects](https://github.com/akilans/golang-mini-projects)** - Collection of beginner friendly golang projects (6 days ago)
 
 ---
 
