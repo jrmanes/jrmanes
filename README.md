@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/celestia-node @ v0.9.3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.3) (today)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (4 days ago)
-- [celestiaorg/celestia-node @ v0.9.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.2) (5 days ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 week ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (3 weeks ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (3 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (today)
 - **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 day ago)
 - **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 day ago)
 - **[external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)** - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 days ago)
 - **[NCCloud/mayfly](https://github.com/NCCloud/mayfly)** - An operator to manage ephemeral Kubernetes resources :honeybee: (4 days ago)
-- **[argoproj/argo-helm](https://github.com/argoproj/argo-helm)** - ArgoProj Helm Charts (5 days ago)
 
 ---
 
