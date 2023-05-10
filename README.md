@@ -89,7 +89,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: TestGround GA](https://github.com/celestiaorg/.github/pull/57) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 week ago)
 
 ---
 
