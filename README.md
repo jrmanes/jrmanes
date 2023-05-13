@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (4 weeks ago)
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.4) (1 day ago)
+- [celestiaorg/celestia-node @ v0.9.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.4) (2 days ago)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (1 week ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (2 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (4 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (4 days ago)
-- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (4 days ago)
-- **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (5 days ago)
-- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (5 days ago)
-- **[external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)** - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 week ago)
+- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 day ago)
+- **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (5 days ago)
+- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (5 days ago)
+- **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (6 days ago)
+- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (6 days ago)
 
 ---
 
