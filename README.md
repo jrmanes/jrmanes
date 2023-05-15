@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.4) (4 days ago)
+- [celestiaorg/celestia-node @ v0.9.5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.5) (today)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (1 week ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (2 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
@@ -89,6 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/celestiaorg/testground-infra/pull/2) on [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra) (today)
+- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/testground/infra/pull/92) on [testground/infra](https://github.com/testground/infra) (today)
 
 ---
 
