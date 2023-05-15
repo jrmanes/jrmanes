@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (today)
 - **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (1 day ago)
 - **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 days ago)
 - **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (1 week ago)
 - **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (1 week ago)
-- **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
 
 ---
 
