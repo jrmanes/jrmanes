@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 weeks ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 month ago)
 
 ---
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.4) (3 days ago)
+- [celestiaorg/celestia-node @ v0.9.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.4) (4 days ago)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (1 week ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (2 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (today)
-- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (2 days ago)
-- **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (6 days ago)
-- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (6 days ago)
+- **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (1 day ago)
+- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 days ago)
+- **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (1 week ago)
+- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (1 week ago)
 - **[rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)** - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
 
 ---
