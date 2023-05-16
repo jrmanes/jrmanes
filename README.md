@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (today)
 - **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (1 day ago)
 - **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (2 days ago)
 - **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (4 days ago)
 - **[ralphcajipe/chatgpt-prompt-engineering](https://github.com/ralphcajipe/chatgpt-prompt-engineering)** - Jupyter code notebooks of &#34;ChatGPT Prompt Engineering for Developers&#34; by DeepLearning.AI and OpenAI. (1 week ago)
-- **[bitnami/azure-marketplace-charts](https://github.com/bitnami/azure-marketplace-charts)** - Helm Charts ready to launch on Azure Kubernetes Serice (AKS) (1 week ago)
 
 ---
 
