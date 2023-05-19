@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 weeks ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 weeks ago)
 - [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 month ago)
 
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.9.5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.5) (3 days ago)
+- [celestiaorg/celestia-node @ v0.9.5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.9.5) (4 days ago)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (2 weeks ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (3 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
@@ -78,20 +78,20 @@
 #### ⭐ Recent Stars
 
 
-- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (1 day ago)
-- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (2 days ago)
-- **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (3 days ago)
-- **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (4 days ago)
-- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (6 days ago)
+- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (2 days ago)
+- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (3 days ago)
+- **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (4 days ago)
+- **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (5 days ago)
+- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (1 week ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [docs: Add content](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (today)
-- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/celestiaorg/testground-infra/pull/2) on [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra) (3 days ago)
-- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/testground/infra/pull/92) on [testground/infra](https://github.com/testground/infra) (3 days ago)
+- [docs: Add content](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (1 day ago)
+- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/celestiaorg/testground-infra/pull/2) on [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra) (4 days ago)
+- [feat: K8S IaC - GitOps with ArgoCD](https://github.com/testground/infra/pull/92) on [testground/infra](https://github.com/testground/infra) (4 days ago)
 
 ---
 
