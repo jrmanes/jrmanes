@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 weeks ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 weeks ago)
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.10.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.0) (1 day ago)
+- [celestiaorg/celestia-node @ v0.10.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.0) (2 days ago)
 - [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (2 weeks ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (3 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
@@ -78,7 +78,7 @@
 #### ⭐ Recent Stars
 
 
-- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (6 days ago)
+- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (1 week ago)
 - **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (1 week ago)
 - **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (1 week ago)
 - **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (1 week ago)
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (4 days ago)
-- [docs: Add MacOS setup](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (5 days ago)
+- [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (5 days ago)
+- [docs: Add MacOS setup](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (6 days ago)
 - [feat: K8S IaC - GitOps with ArgoCD](https://github.com/celestiaorg/testground-infra/pull/2) on [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra) (1 week ago)
 - [feat: K8S IaC - GitOps with ArgoCD](https://github.com/testground/infra/pull/92) on [testground/infra](https://github.com/testground/infra) (1 week ago)
 
