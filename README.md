@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 weeks ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 weeks ago)
-- [rollkit/gm](https://github.com/rollkit/gm) - A repository of the completed gm-world tutorial. (1 month ago)
 
 ---
 
