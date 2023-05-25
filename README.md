@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (today)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
+- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 weeks ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 weeks ago)
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.10.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.0) (2 days ago)
-- [celestiaorg/celestia-app @ v0.13.2](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.2) (2 weeks ago)
-- [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (3 weeks ago)
+- [celestiaorg/celestia-app @ v0.13.3](https://github.com/celestiaorg/celestia-app/releases/tag/v0.13.3) (1 day ago)
+- [celestiaorg/celestia-node @ v0.10.0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.0) (3 days ago)
+- [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (4 weeks ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
 - [celestiaorg/go-fraud @ v0.1.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.0) (1 month ago)
 
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (5 days ago)
-- [docs: Add MacOS setup](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (6 days ago)
+- [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (6 days ago)
+- [docs: Add MacOS setup](https://github.com/celestiaorg/knuu-example/pull/7) on [celestiaorg/knuu-example](https://github.com/celestiaorg/knuu-example) (1 week ago)
 - [feat: K8S IaC - GitOps with ArgoCD](https://github.com/celestiaorg/testground-infra/pull/2) on [celestiaorg/testground-infra](https://github.com/celestiaorg/testground-infra) (1 week ago)
 - [feat: K8S IaC - GitOps with ArgoCD](https://github.com/testground/infra/pull/92) on [testground/infra](https://github.com/testground/infra) (1 week ago)
 
