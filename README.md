@@ -68,7 +68,7 @@
 
 
 - [celestiaorg/celestia-app @ v1.0.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc1) (3 days ago)
-- [celestiaorg/celestia-node @ 0.10.1](https://github.com/celestiaorg/celestia-node/releases/tag/0.10.1) (3 days ago)
+- [celestiaorg/celestia-node @ v0.10.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.1) (3 days ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (4 days ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 month ago)
 - [rollkit/gm @ v0.1.0](https://github.com/rollkit/gm/releases/tag/v0.1.0) (1 month ago)
