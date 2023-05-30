@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
-- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (5 days ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (5 days ago)
+- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (5 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 weeks ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc0](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc0) (today)
+- [celestiaorg/celestia-node @ v0.10.2](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.2) (today)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 day ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc1) (4 days ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (5 days ago)
@@ -89,8 +89,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: load variables from script and cleanup vars](https://github.com/testground/infra/pull/94) on [testground/infra](https://github.com/testground/infra) (5 days ago)
-- [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 week ago)
 
 ---
 
