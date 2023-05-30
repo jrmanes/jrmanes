@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
-- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (4 days ago)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (4 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
+- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (5 days ago)
+- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (5 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (3 weeks ago)
 
@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (today)
-- [celestiaorg/celestia-app @ v1.0.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc1) (3 days ago)
-- [celestiaorg/celestia-node @ v0.10.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.1) (3 days ago)
-- [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (4 days ago)
+- [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 day ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc1) (4 days ago)
+- [celestiaorg/celestia-node @ v0.10.1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.1) (4 days ago)
+- [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (5 days ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 month ago)
 
 ---
@@ -79,7 +79,7 @@
 
 
 - **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (1 week ago)
-- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (1 week ago)
+- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (2 weeks ago)
 - **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (2 weeks ago)
 - **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (2 weeks ago)
 - **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (2 weeks ago)
@@ -89,7 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: load variables from script and cleanup vars](https://github.com/testground/infra/pull/94) on [testground/infra](https://github.com/testground/infra) (4 days ago)
+- [feat: load variables from script and cleanup vars](https://github.com/testground/infra/pull/94) on [testground/infra](https://github.com/testground/infra) (5 days ago)
 - [feat: jose/robusta nightly](https://github.com/celestiaorg/test-infra/pull/212) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 week ago)
 
 ---
