@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc1](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc1) (2 days ago)
+- [celestiaorg/celestia-node @ v0.10.3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.3) (today)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (4 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc1](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc1) (1 week ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (1 week ago)
