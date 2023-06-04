@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (today)
 - **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (2 weeks ago)
 - **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (2 weeks ago)
 - **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (2 weeks ago)
 - **[awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)** - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below. (3 weeks ago)
-- **[golang-jwt/jwt](https://github.com/golang-jwt/jwt)** - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 weeks ago)
 
 ---
 
