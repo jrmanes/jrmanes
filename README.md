@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (today)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (6 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
 - [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 week ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (3 weeks ago)
 
 ---
 
