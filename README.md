@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc3](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc3) (today)
+- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (today)
 - [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (1 day ago)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 week ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (1 week ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (today)
 - **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (2 days ago)
 - **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (2 days ago)
 - **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (2 weeks ago)
 - **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (3 weeks ago)
-- **[celestiaorg/knuu](https://github.com/celestiaorg/knuu)** - Integration Test Framework (3 weeks ago)
 
 ---
 
