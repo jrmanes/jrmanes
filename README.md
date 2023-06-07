@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (today)
 - **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 day ago)
 - **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (3 days ago)
 - **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (3 days ago)
 - **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (3 weeks ago)
-- **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (3 weeks ago)
 
 ---
 
