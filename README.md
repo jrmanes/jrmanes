@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (today)
+- **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (today)
 - **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (today)
 - **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 day ago)
 - **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (3 days ago)
-- **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (3 days ago)
-- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (3 weeks ago)
 
 ---
 
