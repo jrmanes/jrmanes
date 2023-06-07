@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 day ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
 - [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 week ago)
@@ -67,8 +67,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (today)
-- [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (1 day ago)
+- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (1 day ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (2 days ago)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 week ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (1 week ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 month ago)
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (today)
-- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (2 days ago)
-- **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (2 days ago)
-- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (2 weeks ago)
+- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 day ago)
+- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (3 days ago)
+- **[redkubes/otomi-core](https://github.com/redkubes/otomi-core)** - Self-hosted PaaS for Kubernetes (3 days ago)
+- **[k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)** - A CNI meta-plugin for multi-homed pods in Kubernetes (3 weeks ago)
 - **[aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s)** - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (3 weeks ago)
 
 ---
