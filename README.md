@@ -56,21 +56,21 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 days ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
-- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (1 week ago)
+- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 weeks ago)
+- [testground/infra](https://github.com/testground/infra) - Testground infrastructure - playbooks and scripts for setting up a Kubernetes cluster for Testground (2 weeks ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (1 day ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (2 days ago)
+- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (2 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (3 days ago)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 week ago)
-- [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (1 week ago)
+- [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (2 weeks ago)
 - [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 month ago)
 
 ---
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
-- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (today)
-- **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (today)
-- **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (today)
-- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 day ago)
-- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (3 days ago)
+- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (1 day ago)
+- **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (1 day ago)
+- **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (1 day ago)
+- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (2 days ago)
+- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (4 days ago)
 
 ---
 
