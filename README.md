@@ -56,7 +56,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (4 days ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
@@ -67,11 +67,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (today)
 - [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (3 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc2](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc2) (4 days ago)
 - [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (1 week ago)
 - [testground/infra @ v0.7.1](https://github.com/testground/infra/releases/tag/v0.7.1) (2 weeks ago)
-- [celestiaorg/go-header @ v0.2.7](https://github.com/celestiaorg/go-header/releases/tag/v0.2.7) (1 month ago)
 
 ---
 
