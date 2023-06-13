@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (today)
 - **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (6 days ago)
 - **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (6 days ago)
 - **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (6 days ago)
 - **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 week ago)
-- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** - Vue notifications made easy! (1 week ago)
 
 ---
 
