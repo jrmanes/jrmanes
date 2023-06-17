@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (today)
 - **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (4 days ago)
 - **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (1 week ago)
 - **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (1 week ago)
 - **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (1 week ago)
-- **[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)** - This repo contains all my learning related to DevOps (1 week ago)
 
 ---
 
