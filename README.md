@@ -56,11 +56,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (2 weeks ago)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (3 weeks ago)
 
 ---
 
