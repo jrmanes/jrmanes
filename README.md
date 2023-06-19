@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 weeks ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (2 weeks ago)
@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (today)
 - **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (1 day ago)
 - **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (2 days ago)
 - **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (6 days ago)
 - **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (1 week ago)
-- **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (1 week ago)
 
 ---
 
