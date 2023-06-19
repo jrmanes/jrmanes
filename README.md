@@ -56,10 +56,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (today)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 day ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (1 week ago)
+- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 weeks ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (2 weeks ago)
 
 ---
@@ -67,22 +67,22 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc4) (4 days ago)
-- [celestiaorg/go-header @ v0.2.8](https://github.com/celestiaorg/go-header/releases/tag/v0.2.8) (6 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc4) (5 days ago)
+- [celestiaorg/go-header @ v0.2.8](https://github.com/celestiaorg/go-header/releases/tag/v0.2.8) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (1 week ago)
-- [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (2 weeks ago)
+- [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (3 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (1 day ago)
-- **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (5 days ago)
+- **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (1 day ago)
+- **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (2 days ago)
+- **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (6 days ago)
 - **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (1 week ago)
 - **[jcstein/node-app](https://github.com/jcstein/node-app)** - A Celestia node macOS app. (1 week ago)
-- **[chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet)** - The most powerful wallet for the Cosmos ecosystem and the Interchain (1 week ago)
 
 ---
 
