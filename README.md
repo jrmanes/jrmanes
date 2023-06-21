@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (3 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (2 weeks ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (3 weeks ago)
 
@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc4) (6 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc4) (1 week ago)
 - [celestiaorg/go-header @ v0.2.8](https://github.com/celestiaorg/go-header/releases/tag/v0.2.8) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (2 weeks ago)
@@ -78,18 +78,18 @@
 #### ⭐ Recent Stars
 
 
-- **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (1 day ago)
-- **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (2 days ago)
-- **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (3 days ago)
+- **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (2 days ago)
+- **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (3 days ago)
+- **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (4 days ago)
 - **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (1 week ago)
-- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (1 week ago)
+- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (2 weeks ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: resources block reconstruction](https://github.com/celestiaorg/test-infra/pull/215) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 day ago)
+- [feat: resources block reconstruction](https://github.com/celestiaorg/test-infra/pull/215) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (2 days ago)
 
 ---
 
