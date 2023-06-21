@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[telekom/das-schiff](https://github.com/telekom/das-schiff)** - This is home of Das Schiff - Deutsche Telekom Technik&#39;s engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.  (today)
+- **[docker/buildx](https://github.com/docker/buildx)** - Docker CLI plugin for extended build capabilities with BuildKit (today)
 - **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (2 days ago)
 - **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (3 days ago)
 - **[google/comprehensive-rust](https://github.com/google/comprehensive-rust)** - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (4 days ago)
-- **[xsre/tf-xsre-k8s](https://github.com/xsre/tf-xsre-k8s)** - Terraform Repository to spin up an opinionated Kubernetes Cluster (1 week ago)
-- **[superfly/flyctl](https://github.com/superfly/flyctl)** - Command line tools for fly.io services (2 weeks ago)
 
 ---
 
