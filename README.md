@@ -67,11 +67,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (today)
 - [celestiaorg/celestia-app @ v1.0.0-rc4](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc4) (1 week ago)
 - [celestiaorg/go-header @ v0.2.8](https://github.com/celestiaorg/go-header/releases/tag/v0.2.8) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (1 week ago)
 - [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (2 weeks ago)
-- [celestiaorg/.github @ v0.2.0](https://github.com/celestiaorg/.github/releases/tag/v0.2.0) (3 weeks ago)
 
 ---
 
