@@ -45,22 +45,22 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
+- **[jrmanes/torch](https://github.com/jrmanes/torch)**
 - **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
 - **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
 - **[jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd)** - Testing Github Actions
 - **[jrmanes/aoc2022](https://github.com/jrmanes/aoc2022)** - Advent of Code 2022
-- **[jrmanes/ansible-roles](https://github.com/jrmanes/ansible-roles)**
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  (today)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 weeks ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (3 weeks ago)
 
 ---
 
@@ -89,7 +89,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: resources block reconstruction](https://github.com/celestiaorg/test-infra/pull/215) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 week ago)
 
 ---
 
