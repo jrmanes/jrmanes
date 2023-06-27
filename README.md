@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  (today)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (4 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  (1 day ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (5 days ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 weeks ago)
@@ -67,20 +67,20 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (today)
-- [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (3 days ago)
-- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (4 days ago)
+- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (1 day ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (4 days ago)
+- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (5 days ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (2 weeks ago)
-- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (2 weeks ago)
+- [celestiaorg/celestia-node @ v0.10.4](https://github.com/celestiaorg/celestia-node/releases/tag/v0.10.4) (3 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (4 days ago)
-- **[telekom/das-schiff](https://github.com/telekom/das-schiff)** - This is home of Das Schiff - Deutsche Telekom Technik&#39;s engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.  (5 days ago)
-- **[docker/buildx](https://github.com/docker/buildx)** - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (5 days ago)
+- **[telekom/das-schiff](https://github.com/telekom/das-schiff)** - This is home of Das Schiff - Deutsche Telekom Technik&#39;s engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.  (6 days ago)
+- **[docker/buildx](https://github.com/docker/buildx)** - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
 - **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (1 week ago)
 - **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (1 week ago)
 
