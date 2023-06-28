@@ -78,11 +78,11 @@
 #### ⭐ Recent Stars
 
 
+- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (today)
+- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (today)
 - **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (6 days ago)
 - **[telekom/das-schiff](https://github.com/telekom/das-schiff)** - This is home of Das Schiff - Deutsche Telekom Technik&#39;s engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.  (1 week ago)
 - **[docker/buildx](https://github.com/docker/buildx)** - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
-- **[jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts)** - Helm Charts for Jaeger backend (1 week ago)
-- **[ardanlabs/practical-go](https://github.com/ardanlabs/practical-go)** - This repo contains the material for the Practical Go class. (1 week ago)
 
 ---
 
