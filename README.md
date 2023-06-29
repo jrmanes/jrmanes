@@ -45,7 +45,7 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
-- **[jrmanes/torch](https://github.com/jrmanes/torch)**
+- **[jrmanes/torch](https://github.com/jrmanes/torch)** -  Torch is the Trusted Peers Orchestrator. 
 - **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
 - **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
 - **[jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd)** - Testing Github Actions
@@ -56,8 +56,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  (2 days ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (6 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 days ago)
+- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 weeks ago)
 - [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 weeks ago)
@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc5) (1 day ago)
-- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (2 days ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (5 days ago)
-- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (6 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc5) (2 days ago)
+- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (3 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (6 days ago)
+- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (2 weeks ago)
 
 ---
@@ -78,9 +78,9 @@
 #### ⭐ Recent Stars
 
 
-- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (today)
-- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (today)
-- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (6 days ago)
+- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (1 day ago)
+- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (1 day ago)
+- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (1 week ago)
 - **[telekom/das-schiff](https://github.com/telekom/das-schiff)** - This is home of Das Schiff - Deutsche Telekom Technik&#39;s engine for Kubernetes Cluster as a Service (CaaS) in on-premise environment on top of bare-metal servers and VMs.  (1 week ago)
 - **[docker/buildx](https://github.com/docker/buildx)** - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
 
