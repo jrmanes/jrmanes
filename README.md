@@ -56,18 +56,18 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (4 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
-- [jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd) - Testing Github Actions (3 weeks ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc5](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc5) (3 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (today)
 - [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (4 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (1 week ago)
@@ -89,6 +89,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
 - [feat: update Go base alpine - add branch in makefile](https://github.com/celestiaorg/celestia-node/pull/2414) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
 
 ---
