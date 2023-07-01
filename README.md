@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (5 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 
@@ -67,11 +67,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (today)
 - [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (1 day ago)
 - [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (5 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (1 week ago)
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.3.1](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.3.1) (3 weeks ago)
 
 ---
 
