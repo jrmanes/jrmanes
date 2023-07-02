@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 day ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (3 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
 
@@ -67,9 +67,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (today)
-- [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (1 day ago)
-- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (5 days ago)
+- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (1 day ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (2 days ago)
+- [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (6 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (1 week ago)
 
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (1 day ago)
-- **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (2 days ago)
-- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (3 days ago)
-- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (3 days ago)
+- **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (2 days ago)
+- **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (3 days ago)
+- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (4 days ago)
+- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (4 days ago)
 - **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (1 week ago)
 
 ---
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
-- [feat: update Go base alpine - add branch in makefile](https://github.com/celestiaorg/celestia-node/pull/2414) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
+- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
+- [feat: update Go base alpine - add branch in makefile](https://github.com/celestiaorg/celestia-node/pull/2414) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
 
 ---
 
