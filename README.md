@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: use embedded files instead of ldflags to get the build info during runtime](https://github.com/celestiaorg/celestia-node/pull/2421) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
 - [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
-- [feat: update Go base alpine - add branch in makefile](https://github.com/celestiaorg/celestia-node/pull/2414) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
 
 ---
 
