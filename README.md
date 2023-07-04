@@ -56,9 +56,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 days ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (4 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (4 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
 - [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (1 week ago)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 weeks ago)
 
@@ -67,10 +67,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (2 days ago)
-- [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (3 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc6) (1 day ago)
+- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (3 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (4 days ago)
 - [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (1 week ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc5](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc5) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (1 week ago)
 
 ---
@@ -78,10 +78,10 @@
 #### ⭐ Recent Stars
 
 
-- **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (3 days ago)
-- **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (4 days ago)
-- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (5 days ago)
-- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (5 days ago)
+- **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (4 days ago)
+- **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (5 days ago)
+- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (6 days ago)
+- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (6 days ago)
 - **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (1 week ago)
 
 ---
@@ -89,8 +89,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [fix: use embedded files instead of ldflags to get the build info during runtime](https://github.com/celestiaorg/celestia-node/pull/2421) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
+- [fix: use embedded files instead of ldflags to get the build info during runtime](https://github.com/celestiaorg/celestia-node/pull/2421) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
 
 ---
 
