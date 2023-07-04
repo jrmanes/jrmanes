@@ -67,7 +67,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc6](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc6) (1 day ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc7](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc7) (today)
 - [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (3 days ago)
 - [celestiaorg/celestia-node @ v0.11.0-rc6](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc6) (4 days ago)
 - [celestiaorg/go-header @ v0.2.9](https://github.com/celestiaorg/go-header/releases/tag/v0.2.9) (1 week ago)
@@ -89,8 +89,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [fix: use embedded files instead of ldflags to get the build info during runtime](https://github.com/celestiaorg/celestia-node/pull/2421) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
-- [chore!: bump arabica-9](https://github.com/celestiaorg/celestia-node/pull/2417) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
 
 ---
 
