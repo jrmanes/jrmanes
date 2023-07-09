@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (3 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
@@ -68,9 +68,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (2 days ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (2 days ago)
-- [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (2 days ago)
+- [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (3 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (3 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (3 days ago)
 - [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (1 week ago)
 - [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (2 weeks ago)
 
