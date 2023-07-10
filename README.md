@@ -57,22 +57,22 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
-- [jrmanes/k8s_tools](https://github.com/jrmanes/k8s_tools) -  (2 weeks ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/.github @ v0.2.1](https://github.com/celestiaorg/.github/releases/tag/v0.2.1) (today)
 - [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (4 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (4 days ago)
 - [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (4 days ago)
 - [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (1 week ago)
-- [celestiaorg/go-fraud @ v0.1.1](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.1) (2 weeks ago)
 
 ---
 
@@ -90,6 +90,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
+- [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [feat: use context - seems like it fixes the ldflags issue](https://github.com/celestiaorg/.github/pull/65) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
 
 ---
