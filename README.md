@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.2.1](https://github.com/celestiaorg/.github/releases/tag/v0.2.1) (1 day ago)
+- [celestiaorg/.github @ v0.2.2](https://github.com/celestiaorg/.github/releases/tag/v0.2.2) (today)
 - [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (5 days ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (5 days ago)
 - [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (5 days ago)
