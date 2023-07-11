@@ -57,21 +57,21 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (today)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (today)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 day ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 day ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 day ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.2.1](https://github.com/celestiaorg/.github/releases/tag/v0.2.1) (today)
-- [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (4 days ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (4 days ago)
-- [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (4 days ago)
+- [celestiaorg/.github @ v0.2.1](https://github.com/celestiaorg/.github/releases/tag/v0.2.1) (1 day ago)
+- [celestiaorg/go-header @ v0.2.11](https://github.com/celestiaorg/go-header/releases/tag/v0.2.11) (5 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc8](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc8) (5 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc7](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc7) (5 days ago)
 - [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (1 week ago)
 
 ---
@@ -90,9 +90,9 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
-- [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
-- [feat: use context - seems like it fixes the ldflags issue](https://github.com/celestiaorg/.github/pull/65) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (today)
+- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 day ago)
+- [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
+- [feat: use context - seems like it fixes the ldflags issue](https://github.com/celestiaorg/.github/pull/65) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (1 day ago)
 
 ---
 
