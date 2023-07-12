@@ -57,11 +57,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (today)
 - [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (2 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (2 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (2 days ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
 
