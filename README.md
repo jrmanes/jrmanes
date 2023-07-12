@@ -90,9 +90,11 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
+- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (today)
+- [chore: update common pipeline to v0.2.2](https://github.com/celestiaorg/celestia-app/pull/2086) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
 - [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (2 days ago)
-- [feat: use context - seems like it fixes the ldflags issue](https://github.com/celestiaorg/.github/pull/65) on [celestiaorg/.github](https://github.com/celestiaorg/.github) (2 days ago)
 
 ---
 
