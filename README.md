@@ -68,11 +68,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (today)
 - [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (today)
 - [celestiaorg/celestia-node @ v0.11.0-rc8](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8) (today)
 - [celestiaorg/celestia-app @ v1.0.0-rc9](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc9) (1 day ago)
 - [celestiaorg/.github @ v0.2.2](https://github.com/celestiaorg/.github/releases/tag/v0.2.2) (2 days ago)
-- [jrmanes/torch @ v0.0.1](https://github.com/jrmanes/torch/releases/tag/v0.0.1) (1 week ago)
 
 ---
 
