@@ -46,33 +46,33 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
+- **[jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx)**
 - **[jrmanes/torch](https://github.com/jrmanes/torch)** -  Torch is the Trusted Peers Orchestrator. 
 - **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
 - **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
 - **[jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd)** - Testing Github Actions
-- **[jrmanes/aoc2022](https://github.com/jrmanes/aoc2022)** - Advent of Code 2022
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
+- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (today)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (2 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
 - [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (4 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (4 days ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-test](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-test) (today)
 - [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (1 day ago)
 - [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (1 day ago)
 - [celestiaorg/celestia-node @ v0.11.0-rc8](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8) (1 day ago)
 - [celestiaorg/celestia-app @ v1.0.0-rc9](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc9) (2 days ago)
-- [celestiaorg/.github @ v0.2.2](https://github.com/celestiaorg/.github/releases/tag/v0.2.2) (3 days ago)
 
 ---
 
