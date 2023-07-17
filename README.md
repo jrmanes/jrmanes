@@ -57,44 +57,44 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (2 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (4 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (4 days ago)
-- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (6 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (6 days ago)
+- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (3 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (5 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (5 days ago)
+- [jrmanes/.github](https://github.com/jrmanes/.github) - Common flow (1 week ago)
+- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (2 days ago)
-- [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (3 days ago)
-- [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (3 days ago)
-- [celestiaorg/celestia-node @ v0.11.0-rc8](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8) (3 days ago)
-- [celestiaorg/celestia-app @ v1.0.0-rc9](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc9) (4 days ago)
+- [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (3 days ago)
+- [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (4 days ago)
+- [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (4 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc8](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8) (4 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc9](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc9) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
+- **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (1 day ago)
 - **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (2 weeks ago)
 - **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (2 weeks ago)
 - **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (2 weeks ago)
 - **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (2 weeks ago)
-- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)** - Nix Packages collection &amp; NixOS (3 weeks ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
-- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (4 days ago)
-- [chore: update common pipeline to v0.2.2](https://github.com/celestiaorg/celestia-app/pull/2086) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (4 days ago)
-- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
-- [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
+- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
+- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (5 days ago)
+- [chore: update common pipeline to v0.2.2](https://github.com/celestiaorg/celestia-app/pull/2086) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (5 days ago)
+- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
+- [chore: docker common pipeline v0.2.1](https://github.com/celestiaorg/celestia-app/pull/2057) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 week ago)
 
 ---
 
