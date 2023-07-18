@@ -57,22 +57,22 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (today)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 day ago)
 - [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (4 days ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (6 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
-- [celestiaorg/.github](https://github.com/celestiaorg/.github) -  (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (today)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (1 day ago)
 - [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (4 days ago)
 - [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (5 days ago)
 - [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (5 days ago)
-- [celestiaorg/celestia-node @ v0.11.0-rc8](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8) (5 days ago)
 
 ---
 
@@ -90,11 +90,10 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat: upgrade module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/1) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (today)
 - [feat: disable nightly runs](https://github.com/celestiaorg/test-infra/pull/219) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 day ago)
 - [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
 - [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (6 days ago)
-- [chore: update common pipeline to v0.2.2](https://github.com/celestiaorg/celestia-app/pull/2086) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (6 days ago)
-- [feat: use context in the common pipeline](https://github.com/celestiaorg/celestia-node/pull/2447) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
 
 ---
 
