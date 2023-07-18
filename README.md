@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [rollkit/.github](https://github.com/rollkit/.github) -  (today)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (today)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 day ago)
 - [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (4 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (6 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
 
 ---
@@ -68,22 +68,22 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (today)
 - [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (today)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (1 day ago)
 - [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (4 days ago)
 - [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (5 days ago)
-- [celestiaorg/go-header @ v0.2.12](https://github.com/celestiaorg/go-header/releases/tag/v0.2.12) (5 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
+- **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (today)
+- **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (today)
 - **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (2 days ago)
 - **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (2 weeks ago)
 - **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (2 weeks ago)
-- **[MinaProtocol/mina](https://github.com/MinaProtocol/mina)** - Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security. (2 weeks ago)
-- **[iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms)** - Tendermint KMS: Key Management System for Tendermint Validators (2 weeks ago)
 
 ---
 
