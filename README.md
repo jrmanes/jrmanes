@@ -57,31 +57,31 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [rollkit/.github](https://github.com/rollkit/.github) -  (today)
-- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (today)
-- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 day ago)
-- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (4 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
+- [rollkit/.github](https://github.com/rollkit/.github) -  (1 day ago)
+- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 day ago)
+- [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (2 days ago)
+- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (5 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (today)
-- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (today)
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (1 day ago)
-- [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (4 days ago)
-- [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (5 days ago)
+- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 day ago)
+- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (1 day ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (2 days ago)
+- [jrmanes/celestia-node-invoke_traces_from_fx @ v0.1.1-rc-jose-last-commit](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx/releases/tag/v0.1.1-rc-jose-last-commit) (5 days ago)
+- [celestiaorg/go-fraud @ v0.1.2](https://github.com/celestiaorg/go-fraud/releases/tag/v0.1.2) (6 days ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (today)
-- **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (today)
-- **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (2 days ago)
+- **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (1 day ago)
+- **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (1 day ago)
+- **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (3 days ago)
 - **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (2 weeks ago)
 - **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (2 weeks ago)
 
@@ -90,10 +90,10 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: upgrade module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/1) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (today)
-- [feat: disable nightly runs](https://github.com/celestiaorg/test-infra/pull/219) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 day ago)
-- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
-- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (6 days ago)
+- [feat: upgrade module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/1) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (1 day ago)
+- [feat: disable nightly runs](https://github.com/celestiaorg/test-infra/pull/219) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (2 days ago)
+- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
+- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (1 week ago)
 
 ---
 
