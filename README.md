@@ -46,22 +46,22 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
+- **[jrmanes/watchdog](https://github.com/jrmanes/watchdog)** - Monitors Kubernetes resources and expose them via Prometheus - OTEL
 - **[jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx)**
 - **[jrmanes/torch](https://github.com/jrmanes/torch)** -  Torch is the Trusted Peers Orchestrator. 
 - **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
 - **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
-- **[jrmanes/docker-cicd](https://github.com/jrmanes/docker-cicd)** - Testing Github Actions
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (today)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 day ago)
-- [rollkit/.github](https://github.com/rollkit/.github) -  (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
+- [rollkit/.github](https://github.com/rollkit/.github) -  (1 week ago)
 - [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) - Testing infrastructure for the Celestia Network (1 week ago)
-- [jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx) -  (1 week ago)
 
 ---
 
@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (today)
 - **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (1 week ago)
 - **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (1 week ago)
 - **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (1 week ago)
 - **[BurntSushi/toml](https://github.com/BurntSushi/toml)** - TOML parser for Golang with reflection. (3 weeks ago)
-- **[luksa/kubectl-plugins](https://github.com/luksa/kubectl-plugins)** - My own plugins for kubectl (3 weeks ago)
 
 ---
 
@@ -91,9 +91,6 @@
 
 
 - [feat: upgrade module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/1) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (1 week ago)
-- [feat: disable nightly runs](https://github.com/celestiaorg/test-infra/pull/219) on [celestiaorg/test-infra](https://github.com/celestiaorg/test-infra) (1 week ago)
-- [feat: new metrics - deployment dashboard](https://github.com/celestiaorg/celestia-node/pull/2464) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 week ago)
-- [fix: issue with the ldflags when using the container](https://github.com/rollkit/.github/pull/7) on [rollkit/.github](https://github.com/rollkit/.github) (1 week ago)
 
 ---
 
