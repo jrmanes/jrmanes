@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 day ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (2 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 day ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 day ago)
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (2 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (3 days ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
 
 ---
@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (today)
+- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 day ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (1 week ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (1 week ago)
@@ -79,7 +79,7 @@
 #### ⭐ Recent Stars
 
 
-- **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 day ago)
+- **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (2 days ago)
 - **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (1 week ago)
 - **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (1 week ago)
 - **[clastix/kamaji](https://github.com/clastix/kamaji)** - Run Kubernetes at scale with a fraction of operational burden. (1 week ago)
