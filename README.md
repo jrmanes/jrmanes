@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (today)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (3 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (5 days ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (5 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
 
 ---
@@ -90,6 +90,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [fix: Use commit sha when there is no RC or tag available](https://github.com/celestiaorg/celestia-app/pull/2190) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (today)
 - [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (3 days ago)
 
 ---
