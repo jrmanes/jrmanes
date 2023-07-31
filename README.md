@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (2 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (4 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (4 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (6 days ago)
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (3 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (5 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (5 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
 
 ---
@@ -68,20 +68,20 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (3 days ago)
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (4 days ago)
+- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (4 days ago)
+- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (5 days ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (1 week ago)
-- [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (1 week ago)
+- [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (2 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (2 days ago)
-- **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (3 days ago)
-- **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (5 days ago)
+- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (3 days ago)
+- **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (4 days ago)
+- **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (6 days ago)
 - **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (1 week ago)
 - **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (1 week ago)
 
@@ -90,7 +90,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (2 days ago)
+- [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (3 days ago)
 
 ---
 
