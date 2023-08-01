@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (today)
 - **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (4 days ago)
 - **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (5 days ago)
 - **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
 - **[1Password/connect-helm-charts](https://github.com/1Password/connect-helm-charts)** - Official 1Password Helm Charts (2 weeks ago)
-- **[1Password/onepassword-operator](https://github.com/1Password/onepassword-operator)** - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. (2 weeks ago)
 
 ---
 
