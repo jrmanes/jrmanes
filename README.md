@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 day ago)
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (4 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (6 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (2 days ago)
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (5 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (2 weeks ago)
 
 ---
@@ -68,8 +68,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (5 days ago)
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (6 days ago)
+- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (6 days ago)
+- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 week ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (2 weeks ago)
 - [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (2 weeks ago)
 - [kubernetes-sigs/cluster-api-provider-gcp @ v1.4.0](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/releases/tag/v1.4.0) (2 weeks ago)
@@ -79,10 +79,10 @@
 #### ⭐ Recent Stars
 
 
-- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (today)
-- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (today)
-- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (4 days ago)
-- **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (5 days ago)
+- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (1 day ago)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 day ago)
+- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (5 days ago)
+- **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (6 days ago)
 - **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
 
 ---
@@ -90,8 +90,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [fix: Use commit sha when there is no RC or tag available](https://github.com/celestiaorg/celestia-app/pull/2190) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (1 day ago)
-- [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (4 days ago)
+- [fix: Use commit sha when there is no RC or tag available](https://github.com/celestiaorg/celestia-app/pull/2190) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (2 days ago)
+- [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (5 days ago)
 
 ---
 
