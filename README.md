@@ -90,8 +90,8 @@
 #### 🔨 My recent Pull Requests
 
 
+- [docs: update readme module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/2) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (today)
 - [fix: Use commit sha when there is no RC or tag available](https://github.com/celestiaorg/celestia-app/pull/2190) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (2 days ago)
-- [refactor: cleanup blank spaces - use funcs multiline ](https://github.com/celestiaorg/knuu/pull/169) on [celestiaorg/knuu](https://github.com/celestiaorg/knuu) (5 days ago)
 
 ---
 
