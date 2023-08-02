@@ -91,7 +91,6 @@
 
 
 - [docs: update readme module](https://github.com/celestiaorg/terraform-module-scw-k8s/pull/2) on [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) (today)
-- [fix: Use commit sha when there is no RC or tag available](https://github.com/celestiaorg/celestia-app/pull/2190) on [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) (2 days ago)
 
 ---
 
