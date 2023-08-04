@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (today)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 day ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 day ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (4 days ago)
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
