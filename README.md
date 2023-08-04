@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
-- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (today)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (3 days ago)
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (6 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 day ago)
+- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 day ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (4 days ago)
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
@@ -79,9 +79,9 @@
 #### ⭐ Recent Stars
 
 
-- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (2 days ago)
-- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (2 days ago)
-- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (6 days ago)
+- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (3 days ago)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (3 days ago)
+- **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (1 week ago)
 - **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (1 week ago)
 - **[kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)** - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. (1 week ago)
 
