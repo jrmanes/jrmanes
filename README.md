@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 day ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 days ago)
-- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (2 days ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (5 days ago)
+- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (2 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 days ago)
+- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (3 days ago)
+- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (6 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 
 ---
@@ -79,9 +79,9 @@
 #### ⭐ Recent Stars
 
 
-- **[input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course)** - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way. (today)
-- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (4 days ago)
-- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (4 days ago)
+- **[input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course)** - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way. (1 day ago)
+- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (5 days ago)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (5 days ago)
 - **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (1 week ago)
 - **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (1 week ago)
 
