@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (today)
 - **[input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course)** - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way. (4 days ago)
 - **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (1 week ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 week ago)
 - **[the-hotels-network/go-tinybird](https://github.com/the-hotels-network/go-tinybird)** - Module to getting data through the Tinybird API (1 week ago)
-- **[1Password/kubernetes-secrets-injector](https://github.com/1Password/kubernetes-secrets-injector)** (1 week ago)
 
 ---
 
