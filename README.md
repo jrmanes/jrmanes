@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (2 days ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (6 days ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (1 week ago)
 
 ---
