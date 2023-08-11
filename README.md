@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (today)
 - **[jmoiron/sqlx](https://github.com/jmoiron/sqlx)** - general purpose extensions to golang&#39;s database/sql (1 day ago)
 - **[elisescu/tty-share](https://github.com/elisescu/tty-share)** - Share your linux or osx terminal over the Internet. (1 day ago)
 - **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (2 days ago)
 - **[input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course)** - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way. (6 days ago)
-- **[cph-cachet/flutter-plugins](https://github.com/cph-cachet/flutter-plugins)** - A collection of Flutter plugins developed by CACHET (1 week ago)
 
 ---
 
