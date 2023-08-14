@@ -57,11 +57,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (today)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 days ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (6 days ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
-- [celestiaorg/celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk (2 weeks ago)
 
 ---
 
@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (today)
 - **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (3 days ago)
 - **[jmoiron/sqlx](https://github.com/jmoiron/sqlx)** - general purpose extensions to golang&#39;s database/sql (4 days ago)
 - **[elisescu/tty-share](https://github.com/elisescu/tty-share)** - Share your linux or osx terminal over the Internet. (4 days ago)
 - **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (5 days ago)
-- **[input-output-hk/haskell-course](https://github.com/input-output-hk/haskell-course)** - This course is designed to teach non-engineers (e.g., self-taught/bootcamp coders) Haskell from zero to productive in an interactive, easy-to-follow way. (1 week ago)
 
 ---
 
