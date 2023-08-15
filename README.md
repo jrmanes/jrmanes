@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (today)
 - **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (1 day ago)
 - **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (4 days ago)
 - **[jmoiron/sqlx](https://github.com/jmoiron/sqlx)** - general purpose extensions to golang&#39;s database/sql (5 days ago)
 - **[elisescu/tty-share](https://github.com/elisescu/tty-share)** - Share your linux or osx terminal over the Internet. (5 days ago)
-- **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (6 days ago)
 
 ---
 
