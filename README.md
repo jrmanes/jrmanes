@@ -57,9 +57,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (today)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 days ago)
-- [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (6 days ago)
+- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 day ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (4 days ago)
+- [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (1 week ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 week ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
 
@@ -71,26 +71,26 @@
 - [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (1 week ago)
 - [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (2 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (2 weeks ago)
-- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (3 weeks ago)
-- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (3 weeks ago)
+- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (4 weeks ago)
+- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (4 weeks ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (today)
-- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (3 days ago)
-- **[jmoiron/sqlx](https://github.com/jmoiron/sqlx)** - general purpose extensions to golang&#39;s database/sql (4 days ago)
-- **[elisescu/tty-share](https://github.com/elisescu/tty-share)** - Share your linux or osx terminal over the Internet. (4 days ago)
-- **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (5 days ago)
+- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (1 day ago)
+- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (4 days ago)
+- **[jmoiron/sqlx](https://github.com/jmoiron/sqlx)** - general purpose extensions to golang&#39;s database/sql (5 days ago)
+- **[elisescu/tty-share](https://github.com/elisescu/tty-share)** - Share your linux or osx terminal over the Internet. (5 days ago)
+- **[1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)** - Load secrets from 1Password into your GitHub Actions jobs (6 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: new metrics from Torch](https://github.com/celestiaorg/torch/pull/1) on [celestiaorg/torch](https://github.com/celestiaorg/torch) (3 days ago)
+- [feat: new metrics from Torch](https://github.com/celestiaorg/torch/pull/1) on [celestiaorg/torch](https://github.com/celestiaorg/torch) (4 days ago)
 
 ---
 
