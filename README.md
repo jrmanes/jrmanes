@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (today)
 - **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (1 day ago)
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (1 day ago)
 - **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (2 days ago)
 - **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (3 days ago)
-- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (6 days ago)
 
 ---
 
