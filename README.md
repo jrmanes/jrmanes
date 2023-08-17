@@ -90,7 +90,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: new metrics from Torch](https://github.com/celestiaorg/torch/pull/1) on [celestiaorg/torch](https://github.com/celestiaorg/torch) (6 days ago)
 
 ---
 
