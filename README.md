@@ -57,11 +57,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (2 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (5 days ago)
+- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (3 days ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (6 days ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (1 week ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (1 week ago)
-- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (1 week ago)
+- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (2 weeks ago)
 
 ---
 
@@ -69,28 +69,28 @@
 
 
 - [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (1 week ago)
-- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (2 weeks ago)
+- [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (3 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (3 weeks ago)
-- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (4 weeks ago)
-- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (4 weeks ago)
+- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
+- [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (1 month ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (today)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (today)
-- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (1 day ago)
-- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (2 days ago)
-- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (5 days ago)
+- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (1 day ago)
+- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (1 day ago)
+- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (2 days ago)
+- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (3 days ago)
+- **[withastro/astro](https://github.com/withastro/astro)** - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (6 days ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: new metrics from Torch](https://github.com/celestiaorg/torch/pull/1) on [celestiaorg/torch](https://github.com/celestiaorg/torch) (5 days ago)
+- [feat: new metrics from Torch](https://github.com/celestiaorg/torch/pull/1) on [celestiaorg/torch](https://github.com/celestiaorg/torch) (6 days ago)
 
 ---
 
