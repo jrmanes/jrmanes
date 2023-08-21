@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (6 days ago)
+- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 week ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (1 week ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (2 weeks ago)
@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (1 week ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (2 weeks ago)
 - [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (3 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (3 weeks ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
-- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (3 days ago)
-- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (4 days ago)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (4 days ago)
-- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (5 days ago)
-- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (6 days ago)
+- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (4 days ago)
+- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (5 days ago)
+- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (5 days ago)
+- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (6 days ago)
+- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (1 week ago)
 
 ---
 
