@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (today)
 - **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (5 days ago)
 - **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (6 days ago)
 - **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (6 days ago)
 - **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
-- **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (1 week ago)
 
 ---
 
