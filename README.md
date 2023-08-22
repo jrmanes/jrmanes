@@ -59,7 +59,7 @@
 
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 week ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
-- [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (1 week ago)
+- [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (2 weeks ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (2 weeks ago)
 - [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (2 weeks ago)
 
@@ -79,10 +79,10 @@
 #### ⭐ Recent Stars
 
 
-- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (4 days ago)
-- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (5 days ago)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (5 days ago)
-- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (6 days ago)
+- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (5 days ago)
+- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (6 days ago)
+- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (6 days ago)
+- **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
 - **[modular-community/modular-landscape](https://github.com/modular-community/modular-landscape)** (1 week ago)
 
 ---
