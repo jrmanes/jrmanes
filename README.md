@@ -70,7 +70,7 @@
 
 - [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (2 weeks ago)
 - [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (3 weeks ago)
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (3 weeks ago)
+- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (4 weeks ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
 - [celestiaorg/terraform-module-scw-k8s @ v0.0.2](https://github.com/celestiaorg/terraform-module-scw-k8s/releases/tag/v0.0.2) (1 month ago)
 
@@ -79,10 +79,10 @@
 #### ⭐ Recent Stars
 
 
-- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (today)
-- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (5 days ago)
-- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (6 days ago)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (6 days ago)
+- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (1 day ago)
+- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (6 days ago)
+- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (1 week ago)
+- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (1 week ago)
 - **[dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)** - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
 
 ---
