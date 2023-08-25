@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc9](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc9) (2 weeks ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc8-arabica-improvements](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8-arabica-improvements) (today)
 - [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (4 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
