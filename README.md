@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (today)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (2 days ago)
 - **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (4 days ago)
 - **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (1 week ago)
 - **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (1 week ago)
-- **[crossplane/crossplane](https://github.com/crossplane/crossplane)** - Cloud Native Control Planes (1 week ago)
 
 ---
 
