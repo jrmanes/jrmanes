@@ -57,11 +57,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 week ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 weeks ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (2 weeks ago)
 - [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (3 weeks ago)
-- [celestiaorg/terraform-module-scw-k8s](https://github.com/celestiaorg/terraform-module-scw-k8s) - Terraform Module for Kubernetes Clusters built in Scaleway (3 weeks ago)
 
 ---
 
@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (today)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (today)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (2 days ago)
 - **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (4 days ago)
 - **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (1 week ago)
-- **[rollkit/docs](https://github.com/rollkit/docs)** - Documentation for Rollkit - a modular framework for rollups. (1 week ago)
 
 ---
 
