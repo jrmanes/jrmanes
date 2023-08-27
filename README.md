@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 day ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 week ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 weeks ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (2 weeks ago)
@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc8-arabica-improvements](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8-arabica-improvements) (1 day ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc8-arabica-improvements](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc8-arabica-improvements) (2 days ago)
 - [celestiaorg/go-header @ v0.2.13](https://github.com/celestiaorg/go-header/releases/tag/v0.2.13) (1 month ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
@@ -79,10 +79,10 @@
 #### ⭐ Recent Stars
 
 
-- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (today)
-- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (today)
-- **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (2 days ago)
-- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (4 days ago)
+- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (1 day ago)
+- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (1 day ago)
+- **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (3 days ago)
+- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (5 days ago)
 - **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (1 week ago)
 
 ---
