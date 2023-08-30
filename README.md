@@ -90,6 +90,7 @@
 #### 🔨 My recent Pull Requests
 
 
+- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (today)
 
 ---
 
