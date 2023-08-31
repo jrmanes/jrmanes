@@ -57,11 +57,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (today)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (5 days ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (2 weeks ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 weeks ago)
 - [celestiaorg/knuu](https://github.com/celestiaorg/knuu) - Integration Test Framework (3 weeks ago)
-- [jrmanes/watchdog](https://github.com/jrmanes/watchdog) - Monitors Kubernetes resources and expose them via Prometheus - OTEL (3 weeks ago)
 
 ---
 
