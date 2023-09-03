@@ -46,22 +46,22 @@
 ---
 
 #### 👨‍💻 Repositories I created recently
+- **[jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node)** - Polkadot Run a Validator
 - **[jrmanes/watchdog](https://github.com/jrmanes/watchdog)** - Monitors Kubernetes resources and expose them via Prometheus - OTEL
 - **[jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx)**
 - **[jrmanes/torch](https://github.com/jrmanes/torch)** -  Torch is the Trusted Peers Orchestrator. 
 - **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
-- **[jrmanes/toml2cm](https://github.com/jrmanes/toml2cm)**
 
 ---
 
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (today)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 days ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (3 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (2 weeks ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 weeks ago)
 
 ---
 
