@@ -57,8 +57,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 days ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (2 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 days ago)
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (3 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (2 weeks ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (3 weeks ago)
@@ -68,9 +68,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc10](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc10) (2 days ago)
-- [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (4 days ago)
-- [celestiaorg/go-header @ v0.3.0](https://github.com/celestiaorg/go-header/releases/tag/v0.3.0) (4 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc10](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc10) (3 days ago)
+- [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (5 days ago)
+- [celestiaorg/go-header @ v0.3.0](https://github.com/celestiaorg/go-header/releases/tag/v0.3.0) (5 days ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
 
@@ -90,8 +90,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 days ago)
-- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (3 days ago)
+- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 days ago)
+- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (4 days ago)
 
 ---
 
