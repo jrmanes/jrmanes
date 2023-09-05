@@ -57,9 +57,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (1 day ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (4 days ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (4 days ago)
+- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (2 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (5 days ago)
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (5 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (3 weeks ago)
 
@@ -68,9 +68,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc10](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc10) (4 days ago)
-- [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (6 days ago)
-- [celestiaorg/go-header @ v0.3.0](https://github.com/celestiaorg/go-header/releases/tag/v0.3.0) (6 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc10](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc10) (5 days ago)
+- [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (1 week ago)
+- [celestiaorg/go-header @ v0.3.0](https://github.com/celestiaorg/go-header/releases/tag/v0.3.0) (1 week ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
 
@@ -82,7 +82,7 @@
 - **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (1 week ago)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (1 week ago)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (1 week ago)
-- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (1 week ago)
+- **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (2 weeks ago)
 - **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (2 weeks ago)
 
 ---
@@ -90,8 +90,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 days ago)
-- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (5 days ago)
+- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
+- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (6 days ago)
 
 ---
 
