@@ -68,9 +68,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc10](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc10) (5 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc11](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc11) (today)
+- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (today)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (1 week ago)
-- [celestiaorg/go-header @ v0.3.0](https://github.com/celestiaorg/go-header/releases/tag/v0.3.0) (1 week ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
 
@@ -91,7 +91,6 @@
 
 
 - [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
-- [feat(arabica-10): update the genesis file](https://github.com/celestiaorg/networks/pull/341) on [celestiaorg/networks](https://github.com/celestiaorg/networks) (6 days ago)
 
 ---
 
