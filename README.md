@@ -90,7 +90,6 @@
 #### 🔨 My recent Pull Requests
 
 
-- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
 
 ---
 
