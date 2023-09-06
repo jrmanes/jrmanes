@@ -57,9 +57,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (2 days ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (5 days ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (5 days ago)
+- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (3 days ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (6 days ago)
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (6 days ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (3 weeks ago)
 
@@ -68,8 +68,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc11](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc11) (today)
-- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (today)
+- [celestiaorg/celestia-node @ v0.11.0-rc11](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc11) (1 day ago)
+- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (1 day ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (1 week ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
@@ -90,7 +90,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 days ago)
+- [chore(nodebuilder/p2p)!: Bump arabica-10](https://github.com/celestiaorg/celestia-node/pull/2639) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (6 days ago)
 
 ---
 
