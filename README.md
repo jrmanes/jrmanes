@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (6 days ago)
+- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
@@ -68,8 +68,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-node @ v0.11.0-rc12](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc12) (2 days ago)
-- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (4 days ago)
+- [celestiaorg/celestia-node @ v0.11.0-rc12](https://github.com/celestiaorg/celestia-node/releases/tag/v0.11.0-rc12) (3 days ago)
+- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (5 days ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (1 week ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
 - [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (1 month ago)
