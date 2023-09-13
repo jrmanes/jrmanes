@@ -61,14 +61,14 @@
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
-- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (4 weeks ago)
+- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 month ago)
 
 ---
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (1 day ago)
+- [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (2 days ago)
 - [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (1 week ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (2 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
