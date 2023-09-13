@@ -57,10 +57,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
 - [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
 - [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 month ago)
 
 ---
