@@ -58,10 +58,10 @@
 
 
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (today)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (today)
 - [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (1 week ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 week ago)
-- [modular-community/modular-landscape](https://github.com/modular-community/modular-landscape) -  (1 month ago)
 
 ---
 
@@ -79,11 +79,11 @@
 #### ⭐ Recent Stars
 
 
+- **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (today)
 - **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (2 weeks ago)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (2 weeks ago)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (2 weeks ago)
 - **[containers/skopeo](https://github.com/containers/skopeo)** - Work with remote images registries - retrieving information, images, signing content (3 weeks ago)
-- **[pulumi/pulumi](https://github.com/pulumi/pulumi)** - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀 (3 weeks ago)
 
 ---
 
