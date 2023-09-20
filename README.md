@@ -57,8 +57,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (6 days ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (6 days ago)
+- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
+- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
 - [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (2 weeks ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (2 weeks ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 weeks ago)
@@ -79,7 +79,7 @@
 #### ⭐ Recent Stars
 
 
-- **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (6 days ago)
+- **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (1 week ago)
 - **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (3 weeks ago)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (3 weeks ago)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (3 weeks ago)
