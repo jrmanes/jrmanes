@@ -68,7 +68,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (1 day ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (2 days ago)
 - [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (1 week ago)
 - [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (3 weeks ago)
@@ -79,7 +79,7 @@
 #### ⭐ Recent Stars
 
 
-- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (today)
+- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (1 day ago)
 - **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (1 week ago)
 - **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (3 weeks ago)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (3 weeks ago)
