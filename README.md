@@ -59,7 +59,7 @@
 
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (1 week ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (1 week ago)
-- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (2 weeks ago)
+- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (3 weeks ago)
 - [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (3 weeks ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 weeks ago)
 
@@ -68,18 +68,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (3 days ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (4 days ago)
 - [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (1 week ago)
 - [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (3 weeks ago)
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (1 month ago)
+- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (2 months ago)
 
 ---
 
 #### ⭐ Recent Stars
 
 
-- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (2 days ago)
+- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (3 days ago)
 - **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (1 week ago)
 - **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (4 weeks ago)
 - **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (4 weeks ago)
