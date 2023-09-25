@@ -68,8 +68,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (4 days ago)
-- [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (1 week ago)
+- [celestiaorg/celestia-app @ v1.0.0-rc17](https://github.com/celestiaorg/celestia-app/releases/tag/v1.0.0-rc17) (5 days ago)
+- [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (2 weeks ago)
 - [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (2 weeks ago)
 - [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (3 weeks ago)
 - [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (2 months ago)
@@ -79,10 +79,10 @@
 #### ⭐ Recent Stars
 
 
-- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (3 days ago)
+- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (4 days ago)
 - **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (1 week ago)
-- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (4 weeks ago)
-- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (4 weeks ago)
+- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (1 month ago)
+- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (1 month ago)
 - **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (1 month ago)
 
 ---
