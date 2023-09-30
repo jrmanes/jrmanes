@@ -45,54 +45,6 @@
 
 ---
 
-#### 👨‍💻 Repositories I created recently
-- **[jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node)** - Polkadot Run a Validator
-- **[jrmanes/watchdog](https://github.com/jrmanes/watchdog)** - Monitors Kubernetes resources and expose them via Prometheus - OTEL
-- **[jrmanes/celestia-node-invoke_traces_from_fx](https://github.com/jrmanes/celestia-node-invoke_traces_from_fx)**
-- **[jrmanes/torch](https://github.com/jrmanes/torch)** -  Torch is the Trusted Peers Orchestrator. 
-- **[jrmanes/.github](https://github.com/jrmanes/.github)** - Common flow
-
----
-
-#### 👷 Check out what I'm currently working on
-
-
-- [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
-- [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 weeks ago)
-- [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (3 weeks ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 month ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
-
----
-
-#### 🚀 Latest releases I've contributed to
-
-
-- [celestiaorg/.github @ v0.2.3](https://github.com/celestiaorg/.github/releases/tag/v0.2.3) (2 weeks ago)
-- [celestiaorg/go-header @ v0.3.1](https://github.com/celestiaorg/go-header/releases/tag/v0.3.1) (3 weeks ago)
-- [celestiaorg/go-fraud @ v0.2.0](https://github.com/celestiaorg/go-fraud/releases/tag/v0.2.0) (1 month ago)
-- [jrmanes/torch @ v0.1.0](https://github.com/jrmanes/torch/releases/tag/v0.1.0) (2 months ago)
-- [rollkit/.github @ v0.2.2](https://github.com/rollkit/.github/releases/tag/v0.2.2) (2 months ago)
-
----
-
-#### ⭐ Recent Stars
-
-
-- **[railwayapp/cli](https://github.com/railwayapp/cli)** - Railway CLI (1 week ago)
-- **[libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)** - libp2p implementation in Go (2 weeks ago)
-- **[JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)** - JetBrains Mono – the free and open-source typeface for developers (1 month ago)
-- **[porter-dev/porter](https://github.com/porter-dev/porter)** - Kubernetes powered PaaS that runs in your own cloud. (1 month ago)
-- **[apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)** - Stable Diffusion with Core ML on Apple Silicon (1 month ago)
-
----
-
-#### 🔨 My recent Pull Requests
-
-
-
----
-
 #### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jrmanes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
