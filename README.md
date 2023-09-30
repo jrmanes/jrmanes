@@ -60,8 +60,8 @@
 - [jrmanes/osx-config](https://github.com/jrmanes/osx-config) - Like dotenvs, but with Ansible (2 weeks ago)
 - [jrmanes/torch](https://github.com/jrmanes/torch) -  Torch is the Trusted Peers Orchestrator.  (2 weeks ago)
 - [jrmanes/polkadot_node](https://github.com/jrmanes/polkadot_node) - Polkadot Run a Validator (3 weeks ago)
-- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (4 weeks ago)
-- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (4 weeks ago)
+- [celestiaorg/networks](https://github.com/celestiaorg/networks) -  (1 month ago)
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
 
 ---
 
