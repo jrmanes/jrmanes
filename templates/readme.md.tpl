@@ -4,8 +4,6 @@
 
 ####  🌱 I’m currently learning [Kubernetes Operators/CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) ⎈
 
-<br/>
-
 ---
 
 #### 🔨 Languages and Tools
