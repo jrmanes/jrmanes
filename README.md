@@ -39,9 +39,3 @@
 <a href="https://www.credly.com/badges/0e9bf1ef-f30d-441d-aa38-9b61252615b0/public_url"><img alt="CKS" width="120" height="120" src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"/></a>
 
 ---
-
-#### 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jrmanes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-
----
