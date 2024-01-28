@@ -12,7 +12,6 @@
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="40" height="40" src="https://cluster-api.sigs.k8s.io/images/introduction.svg"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png"></code>
-<code><img width="40" height="40" src="https://camo.githubusercontent.com/bd5b74426b7087fe4c8568458993dfff11001c3b9f0a2483e1da43650cbe0672/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f697374696f696f2f697374696f696f2d69636f6e2e737667"></code>
 <code><img width="40" height="40" src="https://avatars.githubusercontent.com/u/3380462?s=200&v=4"></code>
 <code><img width="40" height="40" src="https://avatars.githubusercontent.com/u/49725059?s=200&v=4"></code>
 <code><img width="40" height="40" src="https://github.com/github/explore/raw/main/topics/docker/docker.png"></code>
